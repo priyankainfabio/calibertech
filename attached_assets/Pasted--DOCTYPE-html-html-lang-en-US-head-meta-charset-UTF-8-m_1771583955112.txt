@@ -1,0 +1,883 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://hotpink-giraffe-187769.hostingersite.com/xmlrpc.php">
+	<script src="https://use.fontawesome.com/18a9c36ed1.js"></script>
+	<link rel="stylesheet" href="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/css/animate.css" />
+	<link href="https://fonts.googleapis.com/css?family=Roboto:700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lobster&amp;subset=cyrillic,cyrillic-ext,latin-ext,vietnamese" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+	<script src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/jquery-3.1.1.slim.min.js" crossorigin="anonymous"></script>
+
+	<script src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/bootstrap.min.js" type="text/javascript"  ></script>
+	<script src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/wow.js" ></script>
+	  <script type="text/javascript">
+	$(document).ready(function(){
+		$("#formButton").click(function(){
+			$("#form1").toggle();
+		});
+	});
+ </script>
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KNL3CTQ');</script>
+<!-- End Google Tag Manager -->
+	<meta name='robots' content='max-image-preview:large' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v14.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Isometric views | Steel Design and Detailing company</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/isometric-views/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Isometric views | Steel Design and Detailing company" />
+	<meta property="og:description" content="Isometric view of Tekla Structures 3D Models Check out some of Tekla model views , 3D PDFs of the Tekla Structures models and Isometric views. For any quotations for Structural Steel Design, Detailing, Estimation or Fabrication, please share your details on contact us page." />
+	<meta property="og:url" content="https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/isometric-views/" />
+	<meta property="og:site_name" content="Steel Design and Detailing company" />
+	<meta property="article:publisher" content="https://www.facebook.com/calibertech.ghosh?__tn__=%2cd%2aF%2aF-R&amp;amp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3beid=ARB7WLkpuwkNdeqQuVM0qjdvW2cQfLkePAFkveNUWbxlpcV7CHRmrOspL1vJKBJnpxe0R6jnZaOL4hBg&amp;amp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3btn-str=%2aF" />
+	<meta property="article:modified_time" content="2020-11-04T10:05:34+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@caliber_tech" />
+	<meta name="twitter:site" content="@caliber_tech" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://hotpink-giraffe-187769.hostingersite.com/#organization","name":"Caliber Tech Solutions Pvt ltd","url":"https://hotpink-giraffe-187769.hostingersite.com/","sameAs":["https://www.facebook.com/calibertech.ghosh?__tn__=,d*F*F-R&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;eid=ARB7WLkpuwkNdeqQuVM0qjdvW2cQfLkePAFkveNUWbxlpcV7CHRmrOspL1vJKBJnpxe0R6jnZaOL4hBg&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;tn-str=*F","https://www.instagram.com/calibertechsolutions/","https://www.linkedin.com/company/caliber-tech-solutions-pvt.-ltd.?originalSubdomain=in","https://www.youtube.com/watch?v=pz9WHr_ENoo&amp;amp;amp;amp;t=36s","https://twitter.com/caliber_tech"],"logo":{"@type":"ImageObject","@id":"https://hotpink-giraffe-187769.hostingersite.com/#logo","inLanguage":"en-US","url":"https://hotpink-giraffe-187769.hostingersite.com/wp-content/uploads/2019/11/Calibar-Tech-Logo.png","width":124,"height":100,"caption":"Caliber Tech Solutions Pvt ltd"},"image":{"@id":"https://hotpink-giraffe-187769.hostingersite.com/#logo"}},{"@type":"WebSite","@id":"https://hotpink-giraffe-187769.hostingersite.com/#website","url":"https://hotpink-giraffe-187769.hostingersite.com/","name":"Steel Design and Detailing company","description":"Caliber Tech Solutions","publisher":{"@id":"https://hotpink-giraffe-187769.hostingersite.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://hotpink-giraffe-187769.hostingersite.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/isometric-views/#webpage","url":"https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/isometric-views/","name":"Isometric views | Steel Design and Detailing company","isPartOf":{"@id":"https://hotpink-giraffe-187769.hostingersite.com/#website"},"datePublished":"2020-07-08T18:58:57+00:00","dateModified":"2020-11-04T10:05:34+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/isometric-views/"]}]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Steel Design and Detailing company &raquo; Feed" href="https://hotpink-giraffe-187769.hostingersite.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Steel Design and Detailing company &raquo; Comments Feed" href="https://hotpink-giraffe-187769.hostingersite.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/hotpink-giraffe-187769.hostingersite.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ngg_trigger_buttons-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/trigger_buttons.css?ver=3.30' type='text/css' media='all' />
+<link rel='stylesheet' id='shutter-0-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/shutter/shutter.css?ver=3.30' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome_v4_shim_style-css' href='https://use.fontawesome.com/releases/v5.3.1/css/v4-shims.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://use.fontawesome.com/releases/v5.3.1/css/all.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='nextgen_basic_imagebrowser_style-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/static/style.css?ver=3.30' type='text/css' media='all' />
+<link rel='stylesheet' id='luzuk-premium-style-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/style.css?ver=6.4.3' type='text/css' media='all' />
+<style id='luzuk-premium-style-inline-css' type='text/css'>
+body,* ,.ht-appintment-member-wrap input[type='text'],.ht-appintment-member-wrap input[type='email'],.ht-appintment-member-wrap input[type='url'],.ht-appintment-member-wrap input[type='password'],.ht-appintment-member-wrap input[type='search'],.ht-appintment-member-wrap input[type='number'],.ht-appintment-member-wrap input[type='tel'],.ht-appintment-member-wrap input[type='range'],.ht-appintment-member-wrap input[type='date'],.ht-appintment-member-wrap input[type='month'],.ht-appintment-member-wrap input[type='week'],.ht-appintment-member-wrap input[type='time'],.ht-appintment-member-wrap input[type='datetime'],.ht-appintment-member-wrap input[type='datetime-local'],.ht-appintment-member-wrap input[type='color'],.ht-appintment-member-wrap textarea,section#ht-appintment-section .ht-appintment-member-wrap input[type='submit'],.ht-newslatter-member-wrap input[type='text'],.ht-newslatter-member-wrap input[type='email'],.ht-newslatter-member-wrap input[type='url'],.ht-newslatter-member-wrap input[type='password'],.ht-newslatter-member-wrap input[type='search'],.ht-newslatter-member-wrap input[type='number'],.ht-newslatter-member-wrap input[type='tel'],.ht-newslatter-member-wrap input[type='range'],.ht-newslatter-member-wrap input[type='date'],.ht-newslatter-member-wrap input[type='month'],.ht-newslatter-member-wrap input[type='week'],.ht-newslatter-member-wrap input[type='time'],.ht-newslatter-member-wrap input[type='datetime'],.ht-newslatter-member-wrap input[type='datetime-local'],.ht-newslatter-member-wrap input[type='color'],.ht-newslatter-member-wrap textarea,.ht-newslatter-member-wrap input[type='submit'],#ht-top-footer input[type='text'],#ht-top-footer input[type='email'],#ht-top-footer input[type='url'],#ht-top-footer input[type='password'],#ht-top-footer input[type='search'],#ht-top-footer input[type='number'],#ht-top-footer input[type='tel'],#ht-top-footer input[type='range'],#ht-top-footer input[type='date'],#ht-top-footer input[type='month'],#ht-top-footer input[type='week'],#ht-top-footer input[type='time'],#ht-top-footer input[type='datetime'],#ht-top-footer input[type='datetime-local'],#ht-top-footer input[type='color'],#ht-top-footer textarea,#ht-top-footer select,.ht-top-footer input[type='submit'],#ht-contactus-wrap input[type='text'],#ht-contactus-wrap input[type='email'],#ht-contactus-wrap input[type='url'],#ht-contactus-wrap input[type='password'],#ht-contactus-wrap input[type='search'],#ht-contactus-wrap input[type='number'],#ht-contactus-wrap input[type='tel'],#ht-contactus-wrap input[type='range'],#ht-contactus-wrap input[type='date'],#ht-contactus-wrap input[type='month'],#ht-contactus-wrap input[type='week'],#ht-contactus-wrap input[type='time'],#ht-contactus-wrap input[type='datetime'],#ht-contactus-wrap input[type='datetime-local'],#ht-contactus-wrap input[type='color'],#ht-contactus-wrap textarea,#ht-contactus-wrap select,#ht-contactus-wrap input[type='submit'],#secondary input[type='text'],fieldset input[type='submit'],button,input[type='button'],input[type='reset'],input[type='submit'],.widget-area .widget-title:after,h3#reply-title:after,h3.comments-title:after,.nav-previous a,.nav-next a,.pagination .page-numbers,.ht-progress-bar-length,.ht-service-post-wrap:after,.ht-service-icon,.ht-counter:after,.ht-counter:before,.ht-testimonial-wrap .bx-wrapper .bx-controls-direction a,.ht-cta-buttons a.ht-cta-button1,.ht-cta-buttons a.ht-cta-button2:hover,#ht-back-top:hover,.entry-readmore a,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce ul.products li.product:hover .button,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce nav.woocommerce-pagination ul li a,.woocommerce nav.woocommerce-pagination ul li span,.woocommerce span.onsale,.woocommerce div.product .woocommerce-tabs ul.tabs li.active,.woocommerce #respond input#submit.disabled,.woocommerce #respond input#submit:disabled,.woocommerce #respond input#submit:disabled[disabled],.woocommerce a.button.disabled,.woocommerce a.button:disabled,.woocommerce a.button:disabled[disabled],.woocommerce button.button.disabled,.woocommerce button.button:disabled,.woocommerce button.button:disabled[disabled],.woocommerce input.button.disabled,.woocommerce input.button:disabled,.woocommerce input.button:disabled[disabled],.woocommerce #respond input#submit.alt.disabled,.woocommerce #respond input#submit.alt.disabled:hover,.woocommerce #respond input#submit.alt:disabled,.woocommerce #respond input#submit.alt:disabled:hover,.woocommerce #respond input#submit.alt:disabled[disabled],.woocommerce #respond input#submit.alt:disabled[disabled]:hover,.woocommerce a.button.alt.disabled,.woocommerce a.button.alt.disabled:hover,.woocommerce a.button.alt:disabled,.woocommerce a.button.alt:disabled:hover,.woocommerce a.button.alt:disabled[disabled],.woocommerce a.button.alt:disabled[disabled]:hover,.woocommerce button.button.alt.disabled,.woocommerce button.button.alt.disabled:hover,.woocommerce button.button.alt:disabled,.woocommerce button.button.alt:disabled:hover,.woocommerce button.button.alt:disabled[disabled],.woocommerce button.button.alt:disabled[disabled]:hover,.woocommerce input.button.alt.disabled,.woocommerce input.button.alt.disabled:hover,.woocommerce input.button.alt:disabled,.woocommerce input.button.alt:disabled:hover,.woocommerce input.button.alt:disabled[disabled],.woocommerce input.button.alt:disabled[disabled]:hover,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,#ht-princing-post-section .ht-princing-icon,#ht-princing-post-section .plan-amount,.ht-princing-icon,.plan-amount,.ht-princing-link a:hover,.readmore a,.page-main-header,#ht-contactus-wrap .contact-page-form,.contact-mapbox iframe,#content-box ol li:before,.ht-slide-cap-descmore a,.ht-princing-link a,.days-time-day,.lz-facility-text ul li i,.post-right .blog-read-more a,.pagingation .current,.pagingation a:hover,.ht-appintment-member-wrap:after,.ht-main-navigation ul ul,#featured-post-section .Featured-data:hover,#featured-new-section .featured-new-icon:hover,#featured-post-section .featured-readmore a.btn,.total-count .count,.sect-height-appointment-section:after,#quote-carousel .carousel-control:hover,.faq h6:after,.single-productpage #sidebars h3:after,#innerpage-box ul.ht-blog-date:before,#innerpage-box .inner-blog-post:hover ul.ht-blog-date:before,.post-date-publishable,#blog-box .excerpt .readMore a:hover,#inner-blog-section .excerpt .readMore,main#innerpage-box div#sitemap-box h3,#innerpage-box .innerblogborder:before,#innerpage-box .inner-blog-post:hover .innerblogborder:before,.socialMedia a,#innerpage-box .lz-gallery-images a .overlay,#innerpage-box .ht-gallery-member-image a .overlay,.woocommerce div.product .woocommerce-tabs ul.tabs li:hover,#blog-box .blog-read-more a:before,.woocommerce ul.product_list_widget ins,.add-to-cart,.woocommerce-product-search .search-field #add_payment_method table.cart td.actions .coupon .input-text,.woocommerce-cart table.cart td.actions .coupon .input-text,.woocommerce-checkout table.cart td.actions .coupon .input-text{font-family:'Open Sans',sans-serif}
+h2.lz-about-heading,h2.lz-facility-heading,.ht-section-title,.lz-fitness-h2,.ht-title-wrap,.ht-slide-cap-title,.ht-slide-cap-title span,#ht-princing-post-section .ht-princing-icon,h1,h2,h3,h4,h5,h6,#pricing-page .ht-princing-icon .ht-slide-cap-descmore a,#innerpage-box .ht-test-member h6.member-name big,#innerpage-box .ht-test-member h6.member-name small,#innerpage-box .ht-test-member h6.member-name span,#innerpage-box .ht-test-member h6.member-name strong,#innerpage-box .ht-test-member h6.member-name b,#innerpage-box .ht-team-member h6,#innerpage-box .ht-team-member h6 small,#innerpage-box .ht-team-member h6 strong,#innerpage-box .ht-team-member h6 span,#innerpage-box .ht-team-member h6 big,#innerpage-box .ht-team-member h6 b,#innerpage-box .featured-post h5,#innerpage-box .featured-post h5 small,#innerpage-box .featured-post h5 strong,#innerpage-box .featured-post h5 span,#innerpage-box .featured-post h5 big,#innerpage-box .featured-post h5 b,#innerpage-box .faq h6,#innerpage-box .faq h6 small,#innerpage-box .faq h6 strong,#innerpage-box .faq h6 span,#innerpage-box .faq h6 big,#innerpage-box .faq h6 b,.lz-featured-Post-heading,.lz-featured-Post-heading small,.lz-featured-Post-heading strong,.lz-featured-Post-heading span,.lz-featured-Post-heading big,.lz-featured-Post-heading b,#featured-post-section .featured-post h5,#featured-post-section .featured-post h5 small,#featured-post-section .featured-post h5 strong,#featured-post-section .featured-post h5 span,#featured-post-section .featured-post big,#featured-post-section .featured-post h5 b,#ht-about-us-section .lz-about-heading,#ht-about-us-section .lz-about-heading small,#ht-about-us-section .lz-about-heading strong,#ht-about-us-section .lz-about-heading span,#ht-about-us-section .lz-about-heading big,#ht-about-us-section .lz-about-heading b,.lz-facility-heading,.lz-facility-heading small,.lz-facility-heading strong,.lz-facility-heading span,.lz-facility-heading big,.lz-facility-heading b,#facility-content-section h5,#facility-content-section h5 small,#facility-content-section h5 strong,#facility-content-section h5 span,#facility-content-section h5 big,#facility-content-section h5 b,h2.ht-section-title.lz-team-heading,h2.ht-section-title.lz-team-heading small,h2.ht-section-title.lz-team-heading strong,h2.ht-section-title.lz-team-heading span,h2.ht-section-title.lz-team-heading big,h2.ht-section-title.lz-team-heading b,.ht-team-member h6,.ht-team-member h6 small,.ht-team-member h6 strong,.ht-team-member h6 span,.ht-team-member h6 big,.ht-team-member h6 b,#testimonials-section .lz-testimonials-heading,#testimonials-section .lz-testimonials-heading small,#testimonials-section .lz-testimonials-heading strong,#testimonials-section .lz-testimonials-heading span,#testimonials-section .lz-testimonials-heading big,#testimonials-section .lz-testimonials-heading b,#testimonials-section h6,#testimonials-section h6 small,#testimonials-section h6 strong,#testimonials-section h6 span,#testimonials-section h6 big,#testimonials-section h6 b,.lz-appointment-heading,.lz-appointment-heading small,.lz-appointment-heading strong,.lz-appointment-heading span,.lz-appointment-heading big,.lz-appointment-heading b,.lz-gallery-heading,.lz-gallery-heading small,.lz-gallery-heading strong,.lz-gallery-heading span,.lz-gallery-heading big,.lz-gallery-heading b,#ht-blog-section .lz-blog-heading,#ht-blog-section .lz-blog-heading small,#ht-blog-section .lz-blog-heading strong,#ht-blog-section .lz-blog-heading span,#ht-blog-section .lz-blog-heading big,#ht-blog-section .lz-blog-heading b,#ht-blog-section .ht-blog-excerpt h5,#ht-blog-section .ht-blog-excerpt h5 small,#ht-blog-section .ht-blog-excerpt h5 strong,#ht-blog-section .ht-blog-excerpt h5 span,#ht-blog-section .ht-blog-excerpt h5 big,#ht-blog-section .ht-blog-excerpt h5 b,#ht-newslatter-section .lz-newslatter-heading,#ht-newslatter-section .lz-newslatter-heading small,#ht-newslatter-section .lz-newslatter-heading strong,#ht-newslatter-section .lz-newslatter-heading span,#ht-newslatter-section .lz-newslatter-heading big,#ht-newslatter-section .lz-newslatter-heading b,#ht-newslatter-section .lz-newslatter-subheading,#ht-newslatter-section .lz-newslatter-subheading small,#ht-newslatter-section .lz-newslatter-subheading strong,#ht-newslatter-section .lz-newslatter-subheading span,#ht-newslatter-section .lz-newslatter-subheading big,#ht-newslatter-section .lz-newslatter-subheading b,#ht-colophon .widget-title,.woocommerce ul.products li.product .woocommerce-loop-category__title,.woocommerce ul.products li.product .woocommerce-loop-product__title,.woocommerce ul.products li.product h3,.ht-slide-cap-title span,.ht-slide-cap-title,.ht-slide-cap-title small,.ht-slide-cap-title strong,.ht-slide-cap-title big,.ht-slide-cap-title b{font-family:'Poppins',sans-serif}
+#ht-masthead .top-header{background:url('');background-repeat:no-repeat;background-size:cover}
+#ht-masthead,.ht-site-description a,.page-template-home-template .ht-main-navigation .menu-item > a,.ht-main-navigation a,.ht-main-navigation ul ul a{color:##666666}
+.page-template-home-template .ht-main-navigation .current_page_item > a{color:#000;background-color:none}
+li.current_page_item > a{color:#ffffff}
+.logobox img{margin-top:10px}
+.logobox img{margin-bottom:10px}
+.logobox img{margin-left:0px}
+.logobox img{margin-right:0px}
+button,input[type='button'],input[type='reset'],input[type='submit'],.widget-area .widget-title:after,h3#reply-title:after,h3.comments-title:after,.nav-previous a,.nav-next a,.pagination .page-numbers,.ht-progress-bar-length,.ht-service-post-wrap:after,.ht-service-icon,.ht-counter:after,.ht-counter:before,.ht-testimonial-wrap .bx-wrapper .bx-controls-direction a,.ht-cta-buttons a.ht-cta-button1,.ht-cta-buttons a.ht-cta-button2:hover,#ht-back-top:hover,.entry-readmore a,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce ul.products li.product:hover .button,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce nav.woocommerce-pagination ul li a,.woocommerce nav.woocommerce-pagination ul li span,.woocommerce span.onsale,.woocommerce div.product .woocommerce-tabs ul.tabs li.active,.woocommerce #respond input#submit.disabled,.woocommerce #respond input#submit:disabled,.woocommerce #respond input#submit:disabled[disabled],.woocommerce a.button.disabled,.woocommerce a.button:disabled,.woocommerce a.button:disabled[disabled],.woocommerce button.button.disabled,.woocommerce button.button:disabled,.woocommerce button.button:disabled[disabled],.woocommerce input.button.disabled,.woocommerce input.button:disabled,.woocommerce input.button:disabled[disabled],.woocommerce #respond input#submit.alt.disabled,.woocommerce #respond input#submit.alt.disabled:hover,.woocommerce #respond input#submit.alt:disabled,.woocommerce #respond input#submit.alt:disabled:hover,.woocommerce #respond input#submit.alt:disabled[disabled],.woocommerce #respond input#submit.alt:disabled[disabled]:hover,.woocommerce a.button.alt.disabled,.woocommerce a.button.alt.disabled:hover,.woocommerce a.button.alt:disabled,.woocommerce a.button.alt:disabled:hover,.woocommerce a.button.alt:disabled[disabled],.woocommerce a.button.alt:disabled[disabled]:hover,.woocommerce button.button.alt.disabled,.woocommerce button.button.alt.disabled:hover,.woocommerce button.button.alt:disabled,.woocommerce button.button.alt:disabled:hover,.woocommerce button.button.alt:disabled[disabled],.woocommerce button.button.alt:disabled[disabled]:hover,.woocommerce input.button.alt.disabled,.woocommerce input.button.alt.disabled:hover,.woocommerce input.button.alt:disabled,.woocommerce input.button.alt:disabled:hover,.woocommerce input.button.alt:disabled[disabled],.woocommerce input.button.alt:disabled[disabled]:hover,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,#ht-princing-post-section .ht-princing-icon,#ht-princing-post-section .plan-amount,.ht-princing-icon,.plan-amount,.ht-princing-link a:hover,.readmore a,.page-main-header,#ht-contactus-wrap .contact-page-form,.contact-mapbox iframe,#content-box ol li:before,.ht-slide-cap-descmore a,.ht-princing-link a,.days-time-day,.lz-facility-text ul li i,.post-right .blog-read-more a,.pagingation .current,.pagingation a:hover,.ht-appintment-member-wrap:after,.ht-main-navigation ul ul,#featured-post-section .Featured-data:hover,#featured-new-section .featured-new-icon:hover,#featured-post-section .featured-readmore a.btn,.total-count .count,.sect-height-appointment-section:after,#quote-carousel .carousel-control:hover,.faq h6:after,.single-productpage #sidebars h3:after,#innerpage-box ul.ht-blog-date:before,#innerpage-box .inner-blog-post:hover ul.ht-blog-date:before,.post-date-publishable,#blog-box .excerpt .readMore a:hover,#inner-blog-section .excerpt .readMore,main#innerpage-box div#sitemap-box h3,#innerpage-box .innerblogborder:before,#innerpage-box .inner-blog-post:hover .innerblogborder:before,.socialMedia a,#innerpage-box .lz-gallery-images a .overlay,#innerpage-box .ht-gallery-member-image a .overlay,.woocommerce div.product .woocommerce-tabs ul.tabs li:hover,#blog-box .blog-read-more a:before,.woocommerce ul.product_list_widget ins,.add-to-cart{background:#dd1111}
+.ht-post-info .entry-date span.ht-day,.entry-categories .fa,.widget-area a:hover,.comment-list a:hover,.no-comments,.ht-site-title a,.woocommerce .woocommerce-breadcrumb a:hover,#total-breadcrumbs a:hover,.ht-featured-link a,.ht-portfolio-cat-name-list .fa,.ht-portfolio-cat-name:hover,.ht-portfolio-cat-name.active,.ht-portfolio-caption a,.ht-team-detail,.ht-counter-icon,.woocommerce ul.products li.product .price,.woocommerce div.product p.price,.woocommerce div.product span.price,.woocommerce .product_meta a:hover,.woocommerce-error:before,.woocommerce-info:before,.woocommerce-message:before,.featured-post:after,.featured-post:before,.featured-link a,.breadcrumbbox a,#ht-colophon .social-profile-icons a:hover,footer#ht-colophon ul li a:hover,.ht-footer .textwidget .fa,h6.secondry-text,#ht-about-us-section ul li:before,#ht-team-section .team-member-designation,#innerpage-box .team-member-designation,.pluses.text-right i.fa.fa-plus,.ht-section-tagline.lz-newslatter-text b,#content-box ul li:before,.page-template-home-template .ht-main-navigation .current_page_item > a,#ht-site-navigation ul li a:hover,.header-social-links a:hover,.lz-featured-Post-heading:before,.lz-featured-Post-heading:after,.featured-new-post h5:hover,#ht-about-us-section .ht-section-tagline span,#ht-about-us-section .lz-about-text span,.ht-project-member .project-readmore a,.ht-team-social-id a:hover,.ht-team-member h6:hover,.faq-description p a,.contact-page-address a,.main#innerpage-box span.fa,div#sitemap-box ul li a:hover,#content-box ol li a,#commentsAdd p a,.product-name a,.cart_totals p a,#innerpage-box .socialMedia a:hover,.woocommerce p.stars a:hover,.star-rating,.edit-link a,.entry-content p a,#blog-box .excerpt h2 a,.woocommerce-MyAccount-navigation-link a,.woocommerce-MyAccount-navigation-link.is-active a:hover,.woocommerce-Address-title a,.woocommerce-product-rating a:hover,.ht-main-navigation li.current_page_item a,.woocommerce-shipping-calculator a,blockquote a,table th a,#content p a,.woocommerce-info a,#inner-blog-section .excerpt h2 a,.lz-fitness-time div:nth-child(8) div.days-time-day{color:#dd1111}
+.ht-main-navigation ul ul,.ht-featured-link a,.ht-counter,.ht-testimonial-wrap .bx-wrapper img,.ht-blog-post,#ht-colophon,.woocommerce ul.products li.product:hover,.woocommerce-page ul.products li.product:hover,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce ul.products li.product:hover .button,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce div.product .woocommerce-tabs ul.tabs,.woocommerce #respond input#submit.alt.disabled,.woocommerce #respond input#submit.alt.disabled:hover,.woocommerce #respond input#submit.alt:disabled,.woocommerce #respond input#submit.alt:disabled:hover,.woocommerce #respond input#submit.alt:disabled[disabled],.woocommerce #respond input#submit.alt:disabled[disabled]:hover,.woocommerce a.button.alt.disabled,.woocommerce a.button.alt.disabled:hover,.woocommerce a.button.alt:disabled,.woocommerce a.button.alt:disabled:hover,.woocommerce a.button.alt:disabled[disabled],.woocommerce a.button.alt:disabled[disabled]:hover,.woocommerce button.button.alt.disabled,.woocommerce button.button.alt.disabled:hover,.woocommerce button.button.alt:disabled,.woocommerce button.button.alt:disabled:hover,.woocommerce button.button.alt:disabled[disabled],.woocommerce button.button.alt:disabled[disabled]:hover,.woocommerce input.button.alt.disabled,.woocommerce input.button.alt.disabled:hover,.woocommerce input.button.alt:disabled,.woocommerce input.button.alt:disabled:hover,.woocommerce input.button.alt:disabled[disabled],.woocommerce input.button.alt:disabled[disabled]:hover,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle .ht-main-navigation .current_page_item > a,.ht-main-navigation .current-menu-item > a,.ht-main-navigation .current_page_ancestor > a,.home.blog .ht-main-navigation li:hover > a,.page-template-home-template .ht-main-navigation .current > a,.home.blog .ht-main-navigation .current > a,.featured-post:before,.ht-project-member .project-readmore a,#innerpage-box .ht-team-member-image,.ht-team-social-id a:hover,.lz-featured-Post-heading:before,.lz-featured-Post-heading:after,.lz-featured-new-heading:before,.lz-featured-new-heading:after,.lz-about-heading:before,.lz-about-heading:after,.lz-facility-heading:before,.lz-facility-heading:after,.lz-team-heading:before,.lz-team-heading:after,.lz-featured-product-heading:before,.lz-featured-product-heading:after,.lz-testimonials-heading:before,.lz-testimonials-heading:after,.faq-heading:before,.faq-heading:after,.lz-blog-heading:before,.lz-blog-heading:after,.tag-heading:before,.tag-heading:after,.ht-team-member-image,.lz-project-heading:before,.lz-project-heading:after,div#sitemap-box ul li a:hover,.lz-gallery-images:hover,.ht-gallery-member-image:hover,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,.newsletter-form-box input[type='email']{border-color:#dd1111}
+#ht-masthead,.woocommerce-error,.woocommerce-info,.woocommerce-message{border-top-color:#dd1111}
+.nav-next a:after{border-left-color:#dd1111}
+.nav-previous a:after{border-right-color:#dd1111}
+.ht-active .ht-service-icon{box-shadow:0px 0px 0px 2px #FFF,0px 0px 0px 4px #dd1111}
+.woocommerce ul.products li.product .onsale:after{border-color:transparent transparent #6f0909 #6f0909}
+.woocommerce span.onsale:after{border-color:transparent #6f0909 #6f0909 transparent}
+@media screen and (max-width:1000px){.toggle-bar{background:#dd1111}}.title-color{color:#fe5722}
+.secondry-bg{// background-color:#ffffff}{border-color:#ffffff}
+.contact-box{background-image:url("https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/images/appoint-bg.jpg");background-position:top;background-size:cover}#facility-content-section{background-image:url("https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/images/facility-bg.jpg");background-position:top;background-size:cover}.newsfootersec{background-image:url("https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/images/footernews.jpg");background-position:top;background-size:cover}.ht-main-title,.single-productpage .ht-main-title{color:#dd1111}
+.page-main-header{background-color:#d1d1d1}
+.breadcrumbbox span{color:#222222}
+.breadcrumbbox span a{color:#dd1111}
+.breadcrumbbox span a:hover{color:#222222}
+.breadcrumbbox{background-color:#fff}
+.breadcrumbbox{border-color:#222222}
+#ht-colophon .widget-title{color:#fff}
+footer#ht-colophon p i{color:#fff}
+footer#ht-colophon p i:hover{color:#dd1111}
+footer#ht-colophon p{color:#ffffff}
+footer#ht-colophon ul li a{color:#ffffff}
+footer#ht-colophon ul li span.post-date{color:#dd1111}
+footer#ht-colophon ul li a:hover{color:#dd1111}
+#ht-top-footer ul li:before{color:#ffffff}
+#ht-top-footer ul li:hover:before{color:#dd1111}
+#ht-top-footer input[type="text"],#ht-top-footer input[type="email"],#ht-top-footer input[type="url"],#ht-top-footer input[type="password"],#ht-top-footer input[type="search"],#ht-top-footer input[type="number"],#ht-top-footer input[type="tel"],#ht-top-footer input[type="range"],#ht-top-footer input[type="date"],#ht-top-footer input[type="month"],#ht-top-footer input[type="week"],#ht-top-footer input[type="time"],#ht-top-footer input[type="datetime"],#ht-top-footer input[type="datetime-local"],#ht-top-footer input[type="color"],#ht-top-footer textarea,#ht-top-footer,#ht-top-footer select,#ht-top-footer input::placeholder,#ht-top-footer textarea::placeholder{color:#fff}
+#ht-top-footer input[type="text"],#ht-top-footer input[type="email"],#ht-top-footer input[type="url"],#ht-top-footer input[type="password"],#ht-top-footer input[type="search"],#ht-top-footer input[type="number"],#ht-top-footer input[type="tel"],#ht-top-footer input[type="range"],#ht-top-footer input[type="date"],#ht-top-footer input[type="month"],#ht-top-footer input[type="week"],#ht-top-footer input[type="time"],#ht-top-footer input[type="datetime"],#ht-top-footer input[type="datetime-local"],#ht-top-footer input[type="color"],#ht-top-footer textarea,#ht-top-footer select{border-color:#fff}
+.ht-top-footer input[type="submit"]{color:#fff}
+.ht-top-footer input[type="submit"]{background-color:#dd1111}
+.social-profile-icons ul li i{color:#fff}
+.social-profile-icons ul li i:hover{color:#fff}
+.social-profile-icons ul li i:hover{background-color:#dd1111}
+.social-profile-icons ul li i{border-color:#4c3a37}
+.social-profile-icons ul li i:hover{border-color:#dd1111}
+.ht-site-info{color:#fff}
+#ht-bottom-footer{background-color:#171717}#ht-about-us-section .lz-about-heading,#ht-about-us-section .lz-about-heading small,.ht-content.lz-about-text h3{color:#2d2d2d}
+#ht-about-us-section .titleborder:after{background-color:#dd1111}
+#ht-about-us-section .outerborder-separator:before,#ht-about-us-section .outerborder-separator:after,#ht-about-us-section .innerborder-separator:before,#ht-about-us-section .innerborder-separator:after{border-color:#dd1111}
+#ht-about-us-section .ht-section-tagline,#ht-about-us-section .lz-about-text{color:#323232}
+#ht-about-us-section ul li,#ht-about-us-section .lz-about-text ul li span{color:#323232}
+#ht-about-us-section ul li:before{color:#dd1111}
+#ht-about-us-section .lz-about-text span{color:#dd1111}
+#ht-about-us-section .readmore a{color:#fff}
+#ht-about-us-section .readmore a{background-color:#dd1111}
+#ht-about-us-section .readmore a:hover{color:#fff}
+#ht-about-us-section .readmore a:before{background-color:#2a2a2a}
+#ht-about-us-section .aboutbox-img:after{border-color:#dd1111}
+#ht-about-us-section .aboutbox-img:after{background-color:#fff}
+.lz-gallery-heading,.lz-gallery-heading small{color:#2d2d2d}
+#ht-gallery-section .titleborder:after{background-color:#D79800}
+#ht-gallery-section .outerborder-separator:before,#ht-gallery-section .outerborder-separator:after,#ht-gallery-section .innerborder-separator:before,#ht-gallery-section .innerborder-separator:after{border-color:#D79800}
+#ht-gallery-section .lz-gallery-images a .overlay,#ht-gallery-section .ht-gallery-member-image a .overlay{background-color:#D79800}
+#innerpage-box .faq-content{background-color:#fff}
+#innerpage-box .faq-content{border-color:#7a7a7a}
+#innerpage-box .faq-content{border-bottom-color:#dd1111}
+#innerpage-box .faq-content{border-right-color:#dd1111}
+#innerpage-box .faq h6,#innerpage-box .faq h6 small{color:#000}
+#innerpage-box .faq h6:after{color:#dd1111}
+#innerpage-box .faq h6:after{background-color:#ffffff}
+#innerpage-box .faq h6:after{border-color:#dddddd}
+#innerpage-box .faq-description p{color:#2d2d2d}
+#innerpage-box .faq-description{border-top-color:#2a2a2a}
+#ht-masthead .header-right-box i{color:#dd1111}
+#ht-masthead .header-right-box .headbox:hover i{color:#2a2a2a}
+#ht-masthead .contact-border .contactlabel{color:#dd1111}
+#ht-masthead .header-right-box .contactdata{color:#333333}
+.ht-main-navigation li a{color:#fff}
+.ht-main-navigation li.current_page_item a,.page-template-home-template .ht-main-navigation .current_page_item > a{color:#fff}
+.ht-main-navigation li.current_page_item a,.page-template-home-template .ht-main-navigation .current_page_item > a{background-color:#dd1111}
+#ht-site-navigation ul li a:hover{color:#fff}
+#ht-site-navigation ul li a:hover{background-color:#dd1111}
+.ht-main-navigation ul ul a{color:#fff}
+.ht-main-navigation ul ul{background-color:#2a2a2a}
+.ht-main-navigation ul ul{border-color:#dd1111}
+#ht-site-navigation ul ul li a:hover{color:#dd1111}
+#ht-site-navigation ul ul li a:before{color:#dd1111}
+.ht-main-navigation ul ul li.current_page_item a{color:#fff}
+.ht-main-navigation ul ul li.current_page_item a{background-color:#dd1111}
+#ht-masthead .medal-header{background-color:#2a2a2a}
+#ht-masthead .top-header{background-color:#fff}
+.ht-main-navigation .ht-menu{background-color:#2a2a2a}
+.toggle-bar{background-color:#dd1111}
+.header-inquiry-btn .head-button a{color:#fff}
+.header-inquiry-btn .head-button a{background-color:#dd1111}
+.header-inquiry-btn .head-button a:hover{color:#fff}
+.header-inquiry-btn .head-button a:before{background-color:#2a2a2a}
+.ht-main-title{color:#dd1111}.contact-page-address .ht-section-tagline{color:#444}
+.contact-page-address .ht-section-tagline .fa{color:#444}
+.contact-page-address .contact-info{color:#444}
+#innerpage-box .contact-info a{color:#dd1111}
+#innerpage-box .contact-info a:hover{color:#2a2a2a}
+#ht-contactus-wrap h4,#ht-contactus-wrap h4 small{color:#fff}
+#ht-contactus-wrap .contact-page-form{background-color:#dd1111}
+#ht-contactus-wrap label{color:#fff}
+#ht-contactus-wrap input[type="text"],#ht-contactus-wrap input[type="email"],#ht-contactus-wrap input[type="url"],#ht-contactus-wrap input[type="password"],#ht-contactus-wrap input[type="search"],#ht-contactus-wrap input[type="number"],#ht-contactus-wrap input[type="tel"],#ht-contactus-wrap input[type="range"],#ht-contactus-wrap input[type="date"],#ht-contactus-wrap input[type="month"],#ht-contactus-wrap input[type="week"],#ht-contactus-wrap input[type="time"],#ht-contactus-wrap input[type="datetime"],#ht-contactus-wrap input[type="datetime-local"],#ht-contactus-wrap input[type="color"],#ht-contactus-wrap select,#ht-contactus-wrap textarea,#ht-contactus-wrap input::placeholder,#ht-contactus-wrap textarea::placeholder,#ht-contactus-wrap select::placeholder{color:#fff}
+#ht-contactus-wrap input[type="text"],#ht-contactus-wrap input[type="email"],#ht-contactus-wrap input[type="url"],#ht-contactus-wrap input[type="password"],#ht-contactus-wrap input[type="search"],#ht-contactus-wrap input[type="number"],#ht-contactus-wrap input[type="tel"],#ht-contactus-wrap input[type="range"],#ht-contactus-wrap input[type="date"],#ht-contactus-wrap input[type="month"],#ht-contactus-wrap input[type="week"],#ht-contactus-wrap input[type="time"],#ht-contactus-wrap input[type="datetime"],#ht-contactus-wrap input[type="datetime-local"],#ht-contactus-wrap input[type="color"],#ht-contactus-wrap select,#ht-contactus-wrap textarea{border-color:#fff}
+#ht-contactus-wrap input[type="submit"]{color:#dd1111}
+#ht-contactus-wrap input[type="submit"]{background-color:#fff}
+#ht-contactus-wrap input[type="submit"]:hover{color:#fff}
+#ht-contactus-wrap input[type="submit"]:hover{background-color:#2a2a2a}
+#ht-contactus-wrap .contact-page-form{color:#fff}
+#ht-contactus-wrap h3,#ht-contactus-wrap h3 small{color:#2d2d2d}
+#ht-contactus-wrap .contact-sm-links li a{color:#dd1111}
+#ht-contactus-wrap .contact-sm-links li a{background-color:#eaeaea}
+#innerpage-box span.fa:hover,#ht-contactus-wrap .contact-sm-links li a:hover{color:#fff}
+#ht-contactus-wrap .contact-sm-links li a:hover{background-color:#dd1111}
+.contact-mapbox iframe{background-color:#dd1111}.ht-slide-cap-title span,.ht-slide-cap-title{color:#fff}
+.ht-slide-cap-desc{color:#fff}
+.ht-slide-cap-desc{background-color:#dd1111}
+.sliderbtn .ht-slide-cap-descmore a{color:#fff}
+.sliderbtn .ht-slide-cap-descmore a:hover{color:#fff}
+.sliderbtn .ht-slide-cap-descmore a:before{background-color:#dd1111}
+.sliderbtn .ht-slide-cap-descmore a:hover{border-color:#dd1111}
+.lz-facility-heading,.lz-facility-heading small{color:#fff}
+#facility-content-section .titleborder:after{background-color:#fff}
+#facility-content-section .outerborder-separator:before,#facility-content-section .outerborder-separator:after,#facility-content-section .innerborder-separator:before,#facility-content-section .innerborder-separator:after{border-color:#fff}
+#facility-content-section .facility-icon span{color:#dd1111}
+#facility-content-section .facility-post:hover .facility-icon span{color:#fff}
+#facility-content-section h5 ,#facility-content-section h5 small{color:#2d2d2d}
+#facility-content-section .facility-post:hover h5 ,#facility-content-section .facility-post:hover h5 small{color:#fff}
+#facility-content-section .facility-post{background-color:#fff}
+#facility-content-section .facility-post::before{background-color:#2a2a2a}
+#facility-content-section .overlay{background-color:#dd1111}
+.lz-featured-Post-heading,.lz-featured-Post-heading small{color:#2d2d2d}
+#featured-post-section .titleborder:after{background-color:#D79800}
+#featured-post-section .outerborder-separator:before,#featured-post-section .outerborder-separator:after,#featured-post-section .innerborder-separator:before,#featured-post-section .innerborder-separator:after{border-color:#D79800}
+#featured-post-section .featured-icon span{color:#2b2b2b}
+#featured-post-section .featured-post-box:hover .featured-icon span{color:#fff}
+#featured-post-section .featured-icon span{background-color:#f5f5f5}
+#featured-post-section .featured-post-box:hover .featured-icon span{background-color:#D79800}
+#featured-post-section .featured-post h5,#featured-post-section .featured-post h5 small{color:#2d2d2d}
+#featured-post-section .featured-post-box:hover .featured-data h5,#featured-post-section .featured-post-box:hover .featured-data h5 small{color:#D79800}
+#featured-post-section .featured-post-box .featured-data p{color:#323232}
+#featured-post-section .featured-post-box{background-color:#fff}
+#featured-post-section .featured-post-box:before,#featured-post-section .featured-post-box:after{background-color:#D79800}
+#innerpage-box .featured-post h5,#innerpage-box .featured-post h5 small{color:#2d2d2d}
+#innerpage-box .featured-post-box .featured-data p{color:#323232}
+#innerpage-box .featured-post-box:hover .featured-data h5,#innerpage-box .featured-post-box:hover .featured-data h5 small{color:#dd1111}
+#innerpage-box .featured-post-box{background-color:#f3f3f3}
+#innerpage-box .featured-post-box:after,#innerpage-box .featured-post-box:before{background-color:#dd1111}
+h2.ht-section-title.lz-team-heading,h2.ht-section-title.lz-team-heading small{color:#2d2d2d}
+#ht-team-section .titleborder:after{background-color:#D79800}
+#ht-team-section .outerborder-separator:before,#ht-team-section .outerborder-separator:after,#ht-team-section .innerborder-separator:before,#ht-team-section .innerborder-separator:after{border-color:#D79800}
+#ht-team-section .ht-team-member h6,#ht-team-section .ht-team-member h6 small{color:#2d2d2d}
+#ht-team-section .ht-team-member:hover h6,#ht-team-section .ht-team-member:hover h6 small{color:#fff}
+#ht-team-section .team-member-designation{color:#D79800}
+#ht-team-section .ht-team-member:hover .team-member-designation{color:#fff}
+#ht-team-section .ht-team-social-id a{color:#fff}
+#ht-team-section .ht-team-member:hover .ht-team-social-id a{color:#fff}
+#ht-team-section .ht-team-member:hover .ht-team-social-id a:hover{color:#2a2a2a}
+#ht-team-section .ht-team-social-id{background-color:#2a2a2a}
+#ht-team-section .ht-team-member:hover .ht-team-social-id{background-color:#D79800}
+#ht-team-section .ht-team-member:hover .team-member-content-overlay{background-color:#2a2a2a}
+#innerpage-box .ht-team-member h6,#innerpage-box .ht-team-member h6 small{color:#2d2d2d}
+#innerpage-box .ht-team-member:hover h6,#innerpage-box .ht-team-member:hover h6 small{color:#fff}
+#innerpage-box .team-member-designation{color:#dd1111}
+#innerpage-box .ht-team-member:hover .team-member-designation{color:#fff}
+#innerpage-box .ht-team-social-id a{color:#fff}
+#innerpage-box .ht-team-social-id{background-color:#2a2a2a}
+#innerpage-box .ht-team-member:hover .ht-team-social-id a:hover{color:#2a2a2a}
+#innerpage-box .ht-team-member:hover .ht-team-social-id{background-color:#dd1111}
+#innerpage-box .ht-team-member:hover .team-member-content-overlay{background-color:#2a2a2a}
+#testimonials-section .lz-testimonials-heading ,#testimonials-section .lz-testimonials-heading small{color:#2d2d2d}
+#testimonials-section .titleborder:after{background-color:#D79800}
+#testimonials-section .outerborder-separator:before,#testimonials-section .outerborder-separator:after,#testimonials-section .innerborder-separator:before,#testimonials-section .innerborder-separator:after{border-color:#D79800}
+#testimonials-section h6,#testimonials-section h6 small{color:#2d2d2d}
+#testimonials-section .text-designation{color:#D79800}
+#testimonials-section .test-content{color:#323232}
+#testimonials-section .ht-test-member:hover h6 ,#testimonials-section .ht-test-member:hover h6 small{color:#D79800}
+#testimonials-section .ht-test-member:hover .text-designation{color:#2d2d2d}
+#testimonials-section .owl-theme .owl-dots .owl-dot span{background-color:#9c9a9b}
+#testimonials-section .owl-theme .owl-dots .owl-dot.active span{background-color:#D79800}
+#testimonials-section .owl-theme .owl-dots .owl-dot:hover span{background-color:#D79800}
+#testimonials-section .test-contentbox,#testimonials-section .test-contentbox:after{background-color:#fff}
+#innerpage-box .test-content{color:#fff}
+#innerpage-box .ht-test-member h6.member-name,#innerpage-box .ht-test-member h6.member-name small{color:#fff}
+#innerpage-box .ht-test-member:hover h6.member-name,#innerpage-box .ht-test-member:hover h6.member-name small{color:#dd1111}
+#innerpage-box .ht-test-member .text-designation{color:#fff}
+#innerpage-box .ht-test-member-image img{border-color:#fff}
+#innerpage-box .ht-test-member:hover .ht-test-member-image img{border-color:#dd1111}
+#innerpage-box .ht-test-member{background-color:#2a2a2a}
+#innerpage-box .test-contentbox{border-right-color:#dd1111}
+#innerpage-box .ht-test-member-image{border-left-color:#dd1111}
+.faq-heading{color:#161616}
+.faq h6{color:#161616}
+.faq-description{color:#333333}.lz-gym-heading{color:#323232}
+.lz-fitness-time .days-time-day-time{color:#232222}.lz-appointment-heading ,.lz-appointment-heading small{color:#fff}
+#ht-appintment-section .titleborder:after{background-color:#fff}
+#ht-appintment-section .outerborder-separator:before,#ht-appintment-section .outerborder-separator:after,#ht-appintment-section .innerborder-separator:before,#ht-appintment-section .innerborder-separator:after{border-color:#fff}
+#ht-appintment-section select,.ht-appintment-member-wrap input[type="text"],.ht-appintment-member-wrap input[type="email"],.ht-appintment-member-wrap input[type="url"],.ht-appintment-member-wrap input[type="password"],.ht-appintment-member-wrap input[type="search"],.ht-appintment-member-wrap input[type="number"],.ht-appintment-member-wrap input[type="tel"],.ht-appintment-member-wrap input[type="range"],.ht-appintment-member-wrap input[type="date"],.ht-appintment-member-wrap input[type="month"],.ht-appintment-member-wrap input[type="week"],.ht-appintment-member-wrap input[type="time"],.ht-appintment-member-wrap input[type="datetime"],.ht-appintment-member-wrap input[type="datetime-local"],.ht-appintment-member-wrap input[type="color"],.ht-appintment-member-wrap textarea,#ht-appintment-section .ht-appintment-member-wrap input::placeholder,#ht-appintment-section .ht-appintment-member-wrap textarea::placeholder{color:#fff}
+#ht-appintment-section select,.ht-appintment-member-wrap input[type="text"],.ht-appintment-member-wrap input[type="email"],.ht-appintment-member-wrap input[type="url"],.ht-appintment-member-wrap input[type="password"],.ht-appintment-member-wrap input[type="search"],.ht-appintment-member-wrap input[type="number"],.ht-appintment-member-wrap input[type="tel"],.ht-appintment-member-wrap input[type="range"],.ht-appintment-member-wrap input[type="date"],.ht-appintment-member-wrap input[type="month"],.ht-appintment-member-wrap input[type="week"],.ht-appintment-member-wrap input[type="time"],.ht-appintment-member-wrap input[type="datetime"],.ht-appintment-member-wrap input[type="datetime-local"],.ht-appintment-member-wrap input[type="color"],.ht-appintment-member-wrap textarea{border-color:#fff}
+section#ht-appintment-section .ht-appintment-member-wrap input[type="submit"]{color:#fff}
+section#ht-appintment-section .ht-appintment-member-wrap input[type="submit"]{background-color:#dd1111}
+section#ht-appintment-section .ht-appintment-member-wrap input[type="submit"]{border-color:#dd1111}
+section#ht-appintment-section .ht-appintment-member-wrap input[type="submit"]:hover{color:#dd1111}
+section#ht-appintment-section .ht-appintment-member-wrap input[type="submit"]:hover{border-color:#fff}
+section#ht-appintment-section .ht-appintment-member-wrap input[type="submit"]:hover{background-color:#fff}
+.ht-appintment-member-wrap label{color:#fff}
+.ht-appintment-member-wrap{color:#fff}
+#ht-appintment-section{background-color:#dd1111}
+#ht-appintment-section .contact-icon span{color:#fff}
+#ht-appintment-section .contact-content ,#ht-appintment-section .contact-content a{color:#fff}
+#ht-appintment-section .contact-content a:hover{color:#2a2a2a}
+#ht-appintment-section .contactsection-links li a{color:#fff}
+#ht-appintment-section .contactsection-links li a{border-color:#fff}
+#ht-appintment-section .contactsection-links li a:hover{color:#2a2a2a}
+#ht-appintment-section .contactsection-links li a:hover{border-color:#2a2a2a}
+#ht-blog-section .lz-blog-heading ,#ht-blog-section .lz-blog-heading small{color:#2d2d2d}
+#ht-blog-section .titleborder:after{background-color:#dd1111}
+#ht-blog-section .outerborder-separator:before,#ht-blog-section .outerborder-separator:after,#ht-blog-section .innerborder-separator:before,#ht-blog-section .innerborder-separator:after{border-color:#dd1111}
+#ht-blog-section .ht-blog-thumbnail a:after{background-color:#fff}
+#ht-blog-section .blog-read-more a{background-color:#dd1111}
+#ht-blog-section .blog-read-more a{color:#fff}
+#ht-blog-section .box-panels:hover .blog-read-more a{background-color:#2a2a2a}
+#ht-blog-section .box-panels:hover .blog-read-more a{color:#fff}
+#ht-blog-section .ht-blog-excerpt h5,#ht-blog-section .ht-blog-excerpt h5 small{color:#2d2d2d}
+#ht-blog-section .ht-blog-date .userb{color:#323232}
+#ht-blog-section .ht-blog-date .userb:before{color:#dd1111}
+#ht-blog-section .ht-blog-date .userb:after{color:#323232}
+#ht-blog-section .ht-blog-date .userdate{color:#323232}
+#ht-blog-section .ht-blog-date .userdate:before{color:#dd1111}
+#ht-blog-section .box-panels .ht-blog-excerpt:after{background-color:#dd1111}
+#ht-blog-section .ht-blog-post .box-panels{background-color:#fff}
+#ht-blog-section .ht-blog-thumbnail:before,#ht-blog-section .ht-blog-post .box-panels:after{background-color:#dd1111}
+#ht-newslatter-section .lz-newslatter-heading ,#ht-newslatter-section .lz-newslatter-heading small{color:#D79800}
+#ht-newslatter-section .ht-section-title.lz-newslatter-heading span{color:#fff}
+#ht-newslatter-section .lz-newslatter-subheading,#ht-newslatter-section .lz-newslatter-subheading small{color:#fff}
+#ht-newslatter-section .ht-newslatter-member-wrap span.wpcf7-form-control-wrap:before{color:#818181}
+.ht-newslatter-member-wrap input[type="text"],.ht-newslatter-member-wrap input[type="email"],.ht-newslatter-member-wrap input[type="url"],.ht-newslatter-member-wrap input[type="password"],.ht-newslatter-member-wrap input[type="search"],.ht-newslatter-member-wrap input[type="number"],.ht-newslatter-member-wrap input[type="tel"],.ht-newslatter-member-wrap input[type="range"],.ht-newslatter-member-wrap input[type="date"],.ht-newslatter-member-wrap input[type="month"],.ht-newslatter-member-wrap input[type="week"],.ht-newslatter-member-wrap input[type="time"],.ht-newslatter-member-wrap input[type="datetime"],.ht-newslatter-member-wrap input[type="datetime-local"],.ht-newslatter-member-wrap input[type="color"],.ht-newslatter-member-wrap textarea,.ht-newslatter-member-wrap input::placeholder,.ht-newslatter-member-wrap textarea::placeholder,#ht-newslatter-section .ht-newslatter-member-wrap input[type="email"]::placeholder{color:#818181}
+.ht-newslatter-member-wrap input[type="text"],.ht-newslatter-member-wrap input[type="email"],.ht-newslatter-member-wrap input[type="url"],.ht-newslatter-member-wrap input[type="password"],.ht-newslatter-member-wrap input[type="search"],.ht-newslatter-member-wrap input[type="number"],.ht-newslatter-member-wrap input[type="tel"],.ht-newslatter-member-wrap input[type="range"],.ht-newslatter-member-wrap input[type="date"],.ht-newslatter-member-wrap input[type="month"],.ht-newslatter-member-wrap input[type="week"],.ht-newslatter-member-wrap input[type="time"],.ht-newslatter-member-wrap input[type="datetime"],.ht-newslatter-member-wrap input[type="datetime-local"],.ht-newslatter-member-wrap input[type="color"],.ht-newslatter-member-wrap textarea{border-color:#fff}
+.ht-newslatter-member-wrap input[type="text"],.ht-newslatter-member-wrap input[type="email"],.ht-newslatter-member-wrap input[type="url"],.ht-newslatter-member-wrap input[type="password"],.ht-newslatter-member-wrap input[type="search"],.ht-newslatter-member-wrap input[type="number"],.ht-newslatter-member-wrap input[type="tel"],.ht-newslatter-member-wrap input[type="range"],.ht-newslatter-member-wrap input[type="date"],.ht-newslatter-member-wrap input[type="month"],.ht-newslatter-member-wrap input[type="week"],.ht-newslatter-member-wrap input[type="time"],.ht-newslatter-member-wrap input[type="datetime"],.ht-newslatter-member-wrap input[type="datetime-local"],.ht-newslatter-member-wrap input[type="color"],.ht-newslatter-member-wrap textarea{background-color:#fff}
+.ht-newslatter-member-wrap input[type="submit"]{color:#fff}
+.ht-newslatter-member-wrap input[type="submit"]{background-color:#D79800}
+.ht-newslatter-member-wrap input[type="submit"]:hover{color:#D79800}
+.ht-newslatter-member-wrap input[type="submit"]:hover{background-color:#2a2a2a}
+.ht-newslatter-member-wrap label{color:#fff}
+#ht-newslatter-section .ht-newslatter-member-wrap{color:#fff}
+#ht-newslatter-section{border-bottom-color:#464646}
+#innerpage-box{background-image:url('');background-position:center;background-attachment:fixed;background-origin:content-box;background-size:cover}.border{border:1px solid #fff}
+</style>
+<link rel='stylesheet' id='bxslider-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/css/jquery.bxslider.css?ver=4.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='colorbox-popup-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/css/colorbox.css?ver=4.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/css/animate.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/css/font-awesome.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/css/owl.carousel.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/css/owl.theme.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='nivo-lightbox-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/css/nivo-lightbox.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/css/superfish.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='docs-theme-min-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/css/docss.theme.min.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-min-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/css/owl.carousel.min.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-default-min-css' href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/css/owl.theme.default.min.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css' href='https://fonts.googleapis.com/css?family=Archivo+Narrow%7CArimo%7CBerkshire+Swash%7CBitter%7CComfortaa%7CDancing+Script%7CDosis%7CDroid+Serif%7CFrancois+One%7CGermania+One%7CHammersmith+One%7CIndie+Flower%7CLobster%7CMuli%7CNosifer%7CPT+Sans%7CPT+Sans+Caption%7CPT+Sans+Narrow%7CPacifico%7CQuestrial%7CRoboto+Mono%7CRoboto+Slab%7CSource+Serif+Pro%7CTitillium+Web%7CWork+Sans%7CRubik%3A700i&#038;ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-slug-fonts-css' href='//fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700%2C900' type='text/css' media='all' />
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="photocrati_ajax-js-extra">
+/* <![CDATA[ */
+var photocrati_ajax = {"url":"https:\/\/hotpink-giraffe-187769.hostingersite.com\/index.php?photocrati_ajax=1","wp_home_url":"https:\/\/hotpink-giraffe-187769.hostingersite.com","wp_site_url":"https:\/\/hotpink-giraffe-187769.hostingersite.com","wp_root_url":"https:\/\/hotpink-giraffe-187769.hostingersite.com","wp_plugins_url":"https:\/\/hotpink-giraffe-187769.hostingersite.com\/wp-content\/plugins","wp_content_url":"https:\/\/hotpink-giraffe-187769.hostingersite.com\/wp-content","wp_includes_url":"https:\/\/hotpink-giraffe-187769.hostingersite.com\/wp-includes\/","ngg_param_slug":"nggallery"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.min.js?ver=3.30" id="photocrati_ajax-js"></script>
+<script type="text/javascript" src="https://use.fontawesome.com/releases/v5.3.1/js/v4-shims.js?ver=5.3.1" id="fontawesome_v4_shim-js"></script>
+<script type="text/javascript" defer integrity="sha384-kW+oWsYx3YpxvjtZjFXqazFpA7UP/MbiY4jvs+RWZo2+N94PFZ36T6TFkc9O3qoB" crossorigin="anonymous" data-auto-replace-svg="false" data-keep-original-source="false" data-search-pseudo-elements src="https://use.fontawesome.com/releases/v5.3.1/js/all.js?ver=5.3.1" id="fontawesome-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/SmoothScroll.js?ver=20160809" id="smoothscroll-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/jquery.stellar.js?ver=20150903" id="jquery-stellar-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/jquery.colorbox.js?ver=20160809" id="jquery-colorbox-js"></script>
+<link rel="https://api.w.org/" href="https://hotpink-giraffe-187769.hostingersite.com/wp-json/" /><link rel="alternate" type="application/json" href="https://hotpink-giraffe-187769.hostingersite.com/wp-json/wp/v2/pages/473" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hotpink-giraffe-187769.hostingersite.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.3" />
+<link rel='shortlink' href='https://hotpink-giraffe-187769.hostingersite.com/?p=473' />
+<link rel="alternate" type="application/json+oembed" href="https://hotpink-giraffe-187769.hostingersite.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhotpink-giraffe-187769.hostingersite.com%2Fsteel-detailing-portfolio%2Fisometric-views%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://hotpink-giraffe-187769.hostingersite.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhotpink-giraffe-187769.hostingersite.com%2Fsteel-detailing-portfolio%2Fisometric-views%2F&#038;format=xml" />
+<meta name="cdp-version" content="1.3.9" /><style>.ht-service-left-bg{ background-image:url();}#ht-counter-section{ background-image:url();}#ht-cta-section{ background-image:url();}</style><link rel="icon" href="https://hotpink-giraffe-187769.hostingersite.com/wp-content/uploads/2020/09/cropped-CaliberLogo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://hotpink-giraffe-187769.hostingersite.com/wp-content/uploads/2020/09/cropped-CaliberLogo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://hotpink-giraffe-187769.hostingersite.com/wp-content/uploads/2020/09/cropped-CaliberLogo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://hotpink-giraffe-187769.hostingersite.com/wp-content/uploads/2020/09/cropped-CaliberLogo-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.clearfix {
+clear: both;
+}
+#contact-cta-section {
+
+font-family: "proxima-nova", sans-serif;
+font-weight: 400;
+-webkit-font-smoothing: antialiased;
+text-rendering: optimizeLegibility;
+-moz-osx-font-smoothing: grayscale;
+/* padding:30px 20px 40px 20px; */
+/* float: left; */
+width: 100%;
+text-align: center;
+}
+
+.wrapper-full {
+ position: relative;
+width: 100%;
+margin: 0 auto;
+}
+.cta-wrapper {
+margin-bottom: 0;
+text-align: left;
+padding: 8px;
+background-color: #C6222F
+;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+-ms-border-radius: 3px;
+-o-border-radius: 3px;
+border-radius: 3px;
+}
+.cta-wrapper .details-wrapper {
+float: left;
+width: 100%;
+}
+.cta-wrapper .details-wrapper h2 {
+font-weight: 600;
+margin: 0 0 4px 0;
+color: #FFF;
+font-size: 27px;
+}
+.cta-wrapper .details-wrapper p {
+font-size: 18px;
+color: #FFF;
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+
+.cta-wrapper .blue-cta-button {
+	margin-top:10px;
+padding: 17px 50px;
+text-transform: uppercase;
+background-color: #93CC76;
+color: #FFF;
+letter-spacing: 0.1em;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+-ms-border-radius: 3px;
+-o-border-radius: 3px;
+border-radius: 3px;
+-webkit-transition: all 0.2s ease-in-out;
+-moz-transition: all 0.2s ease-in-out;
+-ms-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+text-decoration: none;
+font-weight: 600;
+display: inline-block;
+white-space: pre;
+margin: 31px 0 25px 0;  
+float: right;
+margin-top: 10px;
+color: #C6222F
+;
+background-color: #FFF;
+padding: 8px 0;
+width: 100%;
+text-align: center;
+}
+
+
+.ht-footer ul li{
+	margin:12px 10px;
+}
+@media screen and (min-width:768px){
+	.cta-wrapper .details-wrapper {
+float: left;
+width: 50%;
+		
+}
+	.cta-wrapper{
+		padding:38px;
+	}
+	.cta-wrapper .blue-cta-button{
+		width:30%;
+		padding:18px 0;
+	}
+}		</style>
+		</head>
+
+<body class="page-template page-template-templates page-template-page-right-sidebar page-template-templatespage-right-sidebar-php page page-id-473 page-child parent-pageid-533 wp-custom-logo group-blog ht_right_sidebar ht-sticky-header columns-3">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNL3CTQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div class="main-container">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header id="ht-masthead" class="ht-site-header">
+			
+
+			<div class="top-header">
+				<div class="row">
+					
+
+					<div class="col-md-3 col-md-offset-1 col-sm-12 logomainboxx">
+												<div class="logobox"  style="margin-top:;" "margin-bottom:;" "margin-left:;" "margin-right:;" >
+						<a href="https://hotpink-giraffe-187769.hostingersite.com/" class="custom-logo-link" rel="home"><img width="124" height="100" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/uploads/2019/11/cropped-Calibar-Tech-Logo.png" class="custom-logo" alt="Steel Design and Detailing company" decoding="async" /></a>						<!-- .site-branding -->
+					</div>
+					<div class="clearfix"></div>
+					</div>
+
+
+					<div class="col-md-8 col-sm-12 padding0">
+						<div class="header-box col-md-8 col-md-offset-2">
+														<div class="header-right-box">
+								<div class="col-md-3 col-sm-4">
+																		<div class="headbox">
+										<div class="col-md-3 col-sm-2 col-xs-12 padding0 resspace">
+											<i class="fa fa-mobile" aria-hidden="true"></i>
+										</div>
+										<div class="col-md-9 col-sm-10 col-xs-12 padding0">
+											<div class="contact-border">
+												<div class="contactlabel">Contact us</div>
+												<div class="contactdata">info[at]hotpink-giraffe-187769.hostingersite.com</div>
+											</div>
+										</div>
+									</div>
+																	</div>
+								<div class="col-md-5 col-sm-4">
+																	</div>	
+								<div class="col-md-4 col-sm-4 headerbtn">
+																			<div class="header-inquiry-btn">
+																																		<div class='head-button'><a href="https://hotpink-giraffe-187769.hostingersite.com/detailing-company/ask-for-a-free-quote/" title="headerinquiry">Free Quote</a></div>
+											 
+										</div>
+																	</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+					</div>
+		</div>
+</div>
+		<div class="clearfix"></div>
+			<div class="medal-header">
+				<div class="container">
+					<div class="col-md-12 col-sm-12">
+							<div class="nav-upper col-md-12 col-sm-12 padding0">
+									<nav id="ht-site-navigation" class="ht-main-navigation">
+										<div class="clearfix">
+											<div class="toggle-bar"><span><i class="fa fa-bars" aria-hidden="true"></i></span></div>
+											<div class="ht-menu clearfix"><ul id="menu-main" class="ht-clearfix"><li id="menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-34"><a href="https://hotpink-giraffe-187769.hostingersite.com/">Home</a></li>
+<li id="menu-item-162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-162"><a href="https://hotpink-giraffe-187769.hostingersite.com/company-overview/">Company Overview</a>
+<ul class="sub-menu">
+	<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161"><a href="https://hotpink-giraffe-187769.hostingersite.com/company-overview/about-us/">About us</a></li>
+	<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a href="https://hotpink-giraffe-187769.hostingersite.com/company-overview/infrastructure/">Infrastructure</a></li>
+	<li id="menu-item-163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-163"><a href="https://hotpink-giraffe-187769.hostingersite.com/company-overview/mission-and-vision/">Mission and Vision</a></li>
+	<li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-312"><a href="https://hotpink-giraffe-187769.hostingersite.com/company-overview/memberships-and-certifications/">Memberships and Certifications</a></li>
+	<li id="menu-item-783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-783"><a target="_blank" rel="noopener" href="https://hotpink-giraffe-187769.hostingersite.com/download-brochure/">Download Brochure</a></li>
+	<li id="menu-item-575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-575"><a href="https://hotpink-giraffe-187769.hostingersite.com/company-overview/covid-19-caliber-approach/">Covid-19 Response</a></li>
+</ul>
+</li>
+<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-158"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-design-and-detailing-services/">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-design-and-detailing-services/structural-steel-detailing-services/">Structural Steel Detailing Services</a></li>
+	<li id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-design-and-detailing-services/structural-steel-design-services/">Steel Design Services</a></li>
+	<li id="menu-item-164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-164"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-design-and-detailing-services/connection-design/">Connection Design</a></li>
+	<li id="menu-item-682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-design-and-detailing-services/structural-steel-and-piping-fabrication/">Structural steel and Piping fabrication</a></li>
+	<li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-design-and-detailing-services/estimation-and-material-take-off/">Estimation and material take-off</a></li>
+</ul>
+</li>
+<li id="menu-item-535" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-has-children menu-item-535"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/">Portfolio</a>
+<ul class="sub-menu">
+	<li id="menu-item-1195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1195"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/projects-completed-2/">Jobs at site</a></li>
+	<li id="menu-item-539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-539"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/models/">Tekla Structure 3D Models</a></li>
+</ul>
+</li>
+<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://hotpink-giraffe-187769.hostingersite.com/join-us/">Career</a></li>
+<li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-154"><a href="https://hotpink-giraffe-187769.hostingersite.com/detailing-company/">Contact Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-605"><a href="https://hotpink-giraffe-187769.hostingersite.com/detailing-company/ask-for-a-free-quote/">Ask for a free quote</a></li>
+</ul>
+</li>
+</ul></div>										</div>
+
+									</nav><!-- #ht-site-navigation -->
+								<div class="clearfix"></div>
+							</div>
+					</div>
+			<div class="clearfix"></div>
+			</div>	
+			<div class="clearfix"></div>
+		</div>
+			</header><!-- #masthead -->
+	</div>
+<header class="page-main-header">
+	<div>
+						<!-- <img src="" class="ht-page-header-img" alt="" /> -->
+	</div>
+	<div class="container">
+		<h1 class="ht-main-title">Isometric views</h1>		<div class="clearfix"></div>
+	</div>
+</header><!-- .entry-header -->
+ <div class="breadcrumbbox">
+            <div class="container">
+                <div class='button'><span typeof="v:Breadcrumb" class="root"><a rel="v:url" property="v:title" href="https://hotpink-giraffe-187769.hostingersite.com">Home</a></span><span class="bread-arrow"><i class="fa fa-angle-right
+"></i></span><span typeof="v:Breadcrumb"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/" rel="v:url" property="v:title">Portfolio</a></span><span><i class="fa fa-angle-right
+"></i></span><span><span class='treeEnd'>Isometric views</span></span></div>
+                <!--   -->
+            </div>
+        </div>
+ 
+<main id="innerpage-box">
+	<div class="container">
+		<div id="content-box" class="col-md-9 innerpage-whitebox">
+							
+<article id="post-473" class="post-473 page type-page status-publish hentry">
+
+	<div class="entry-content">
+		
+<h1 class="wp-block-heading">Isometric view of Tekla Structures 3D Models</h1>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p></p>
+
+
+
+
+
+	<div class='ngg-imagebrowser default-view'
+         id='ngg-imagebrowser-1e0f9c91f798097e05e5783896cb7b5d-473'
+         data-nextgen-gallery-id="1e0f9c91f798097e05e5783896cb7b5d">
+
+        <h3>12</h3>
+
+		<div id="ngg-image-0" class="pic" >
+        
+        <a href='https://hotpink-giraffe-187769.hostingersite.com/wp-content/gallery/isometric/12.jpg'
+           title=' '
+           data-src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/gallery/isometric/12.jpg"
+           data-thumbnail="https://hotpink-giraffe-187769.hostingersite.com/wp-content/gallery/isometric/thumbs/thumbs_12.jpg"
+           data-image-id="38"
+           data-title="12"
+           data-description=" "
+           class="shutterset_1e0f9c91f798097e05e5783896cb7b5d">
+            <img title='12'
+                 alt='12'
+                 src='https://hotpink-giraffe-187769.hostingersite.com/wp-content/gallery/isometric/12.jpg'/>
+        </a>
+	    
+        </div> 
+
+        <div class='ngg-imagebrowser-nav'>
+
+            <div class='back'>
+                <a class='ngg-browser-prev'
+                   id='ngg-prev-40'
+                   href='https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/isometric-views/nggallery/image/14/'>
+                    <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                </a>
+            </div>
+
+            <div class='next'>
+                <a class='ngg-browser-next'
+                   id='ngg-next-31'
+                   href='https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/isometric-views/nggallery/image/5-6/'>
+                    <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                </a>
+            </div>
+
+            <div class='counter'>
+                Image                1                of                15            </div>
+
+            <div class='ngg-imagebrowser-desc'>
+                <p> </p>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+<p></p>
+
+
+
+<p>Check out some of <a href="https://hotpink-giraffe-187769.hostingersite.com/projects-detailed-by-caliber/">Tekla model views</a> , <a href="https://hotpink-giraffe-187769.hostingersite.com/models/">3D PDFs</a> of the Tekla Structures models and <a href="https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/isometric-views/">Isometric views</a>.</p>
+
+
+
+<p>For any quotations for Structural Steel <a href="https://hotpink-giraffe-187769.hostingersite.com/steel-design-and-detailing-services/">Design</a>, <a href="https://hotpink-giraffe-187769.hostingersite.com/steel-design-and-detailing-services/">Detailing</a>, <a href="https://hotpink-giraffe-187769.hostingersite.com/steel-design-and-detailing-services/estimation-and-material-take-off/">Estimation </a>or <a href="https://hotpink-giraffe-187769.hostingersite.com/steel-design-and-detailing-services/structural-steel-and-piping-fabrication/">Fabrication</a>, please share your details on <a href="https://hotpink-giraffe-187769.hostingersite.com/detailing-company/ask-for-a-free-quote/">contact us page</a>.</p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+									</div><!-- #main -->
+		<div class="col-md-3">
+			<div id="secondary" class="widget-area">
+		<aside class="sidebar c-4-12">
+		<div id="sidebars" class="sidebar">
+			<div class="sidebar_list">
+				<div id="nav_menu-6" class="widget widget_nav_menu"><h3 class="widget-title">Get in touch with us</h3><div class="menu-important-links-container"><ul id="menu-important-links" class="menu"><li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-584"><a href="https://hotpink-giraffe-187769.hostingersite.com/detailing-company/ask-for-a-free-quote/">Ask for a free quote</a></li>
+<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-585"><a href="https://hotpink-giraffe-187769.hostingersite.com/pay-online/">Pay Online</a></li>
+</ul></div></div><div id="nav_menu-7" class="widget widget_nav_menu"><h3 class="widget-title">Our Work</h3><div class="menu-sidebarmenu-container"><ul id="menu-sidebarmenu" class="menu"><li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/projects-completed/">Projects Completed</a></li>
+<li id="menu-item-596" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-473 current_page_item menu-item-596"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/isometric-views/" aria-current="page">Isometric views</a></li>
+<li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-597"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/projects-detailed-by-caliber/">Tekla Model View</a></li>
+<li id="menu-item-598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/models/">Tekla Structure 3D Models</a></li>
+</ul></div></div>
+		<div id="recent-posts-2" class="widget widget_recent_entries">
+		<h3 class="widget-title">Our Experience</h3>
+		<ul>
+											<li>
+					<a href="https://hotpink-giraffe-187769.hostingersite.com/best-steel/info-outsourcing-of-design-and-detailing-a-global-phenomenon/">Infographic: Outsourcing Of Design And Detailing, A Global Phenomenon</a>
+									</li>
+											<li>
+					<a href="https://hotpink-giraffe-187769.hostingersite.com/best-steel/why-steel-shop-drawings-and-detailing-are-critical-for-your-steel-construction-project/">Why Steel Shop Drawings And Detailing Are Critical For Your Steel Construction Project</a>
+									</li>
+											<li>
+					<a href="https://hotpink-giraffe-187769.hostingersite.com/best-steel/outsourcing-of-design-and-detailing-a-global-phenomenon/">Outsourcing Of Design And Detailing, A Global Phenomenon</a>
+									</li>
+					</ul>
+
+		</div><div id="search-2" class="widget widget_search"><h3 class="widget-title">Site Search</h3><form method="get" id="searchform" class="search-form" action="https://hotpink-giraffe-187769.hostingersite.com" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="Search this site..." onblur="if (this.value == '') {this.value = 'Search this site...';}" onfocus="if (this.value == 'Search this site...') {this.value = '';}" >
+		<input type="submit" value="Search" />
+	</fieldset>
+</form>
+</div>			</div>
+		</div><!--sidebars-->
+	</aside>
+</div><!-- #secondary -->
+		</div>
+		<div class="clearfix"></div>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="pagingation">
+									</div>
+			</div>
+		</div>
+	</div>
+</main><!-- #primary -->
+
+	<div class="newsfootersec">
+	<div class="overlay">
+
+
+	<footer id="ht-colophon" class="ht-site-footer">
+			
+		<div id="ht-top-footer">
+			<div class="container">
+				<div class="ht-top-footer ht-clearfix">
+					<div class="ht-footer ht-footer1 wow fadeInLeft">
+						<aside id="text-3" class="widget widget_text"><h4 class="widget-title">US Office Address:</h4>			<div class="textwidget"><p><strong>CALIBER TECH SOLUTIONS, LLC</strong><br />
+10382 Conser St. unit #2H,<br />
+Overland Park KS 66212<br />
+Call us: +1 760 588 2207</p>
+<p>We are a trusted partner for Structural  Steel Design and Detailing due to our unique process.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+		</aside>	
+					</div>
+
+					<div class="ht-footer ht-footer2 wow fadeInLeft">
+						<aside id="nav_menu-4" class="widget widget_nav_menu"><h4 class="widget-title">Quick Links</h4><div class="menu-quick-links-container"><ul id="menu-quick-links" class="menu"><li id="menu-item-172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-172"><a href="https://hotpink-giraffe-187769.hostingersite.com">Home</a></li>
+<li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-design-and-detailing-services/">Services</a></li>
+<li id="menu-item-1333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1333"><a href="https://hotpink-giraffe-187769.hostingersite.com/blog/">Blog</a></li>
+<li id="menu-item-355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-355"><a href="https://hotpink-giraffe-187769.hostingersite.com/wp-content/uploads/2020/CaliberBrochure2020.pdf">Download Brochure</a></li>
+<li id="menu-item-173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173"><a href="https://hotpink-giraffe-187769.hostingersite.com/detailing-company/">Contact Us</a></li>
+<li id="menu-item-390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-390"><a href="https://hotpink-giraffe-187769.hostingersite.com/page-sitemap.xml">Sitemap</a></li>
+</ul></div></aside>	
+					</div>
+
+					<div class="ht-footer ht-footer3 wow fadeInRight">
+						<aside id="nav_menu-5" class="widget widget_nav_menu"><h4 class="widget-title">Important Links</h4><div class="menu-important-links-2-container"><ul id="menu-important-links-2" class="menu"><li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="https://hotpink-giraffe-187769.hostingersite.com/frequently-asked-questions/">FAQs</a></li>
+<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="https://hotpink-giraffe-187769.hostingersite.com/quality/">Quality</a></li>
+<li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178"><a href="https://hotpink-giraffe-187769.hostingersite.com/pay-online/">Pay Online</a></li>
+<li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-179"><a rel="privacy-policy" href="https://hotpink-giraffe-187769.hostingersite.com/privacy-policy-2-2/">Privacy Policy</a></li>
+<li id="menu-item-398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398"><a href="https://hotpink-giraffe-187769.hostingersite.com/steel-detailing-portfolio/models/">Tekla Structure 3D Models</a></li>
+</ul></div></aside>	
+					</div>
+
+					<div class="ht-footer ht-footer4 wow fadeInRight">
+						<aside id="social-profile-icons-3" class="widget social-profile-icons"><h4 class="widget-title">Follow us</h4><div class="social-profile-icons"><ul class=""><li class="social-facebook"><a title="Facebook" href="https://www.facebook.com/calibertechsolutions/" target="_blank"><i class="fa fa-facebook"></i></a></li><li class="social-instagram"><a title="Instagram" href="https://www.instagram.com/calibertech.solutions/" target="_blank"><i class="fa fa-instagram"></i></a></li><li class="social-linkedin"><a title="LinkedIn" href="https://www.linkedin.com/company/caliber-tech-solutions" target="_blank"><i class="fa fa-linkedin"></i></a></li><li class="social-twitter"><a title="Twitter" href="https://twitter.com/CalibertechS" target="_blank"><i class="fa fa-twitter"></i></a></li><li class="social-youtube"><a title="YouTube" href="https://www.youtube.com/user/calibertechsolutions?sub_confirmation=1" target="_blank"><i class="fa fa-youtube"></i></a></li></ul></div></aside><aside id="media_image-3" class="widget widget_media_image"><h4 class="widget-title">Memberships</h4><a href="https://hotpink-giraffe-187769.hostingersite.com/company-overview/memberships-and-certifications/"><img width="200" height="50" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/uploads/2020/02/aisc-nisd-caliber-2.png" class="image wp-image-328  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" /></a></aside>	
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="ht-bottom-footer">
+						<div class="ht-container">
+									<div class="ht-site-info">
+					<!-- 	 -->
+						<span>Copyright © 2025 Caliber Tech Solutions</span>
+					</div><!-- #site-info -->
+							</div>
+		</div>
+	</footer><!-- #colophon -->
+</div>
+</div>
+	<script type="text/javascript">
+		if(jQuery(window).width() >= 1170){
+		  new WOW().init();
+		}
+	</script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/hotpink-giraffe-187769.hostingersite.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2" id="contact-form-7-js"></script>
+<script type="text/javascript" id="ngg_common-js-extra">
+/* <![CDATA[ */
+
+var galleries = {};
+galleries.gallery_1e0f9c91f798097e05e5783896cb7b5d = {"id":null,"source":"galleries","container_ids":["2"],"gallery_ids":[],"album_ids":[],"tag_ids":[],"display_type":"photocrati-nextgen_basic_imagebrowser","exclusions":[],"order_by":"alttext","order_direction":"ASC","image_ids":[],"entity_ids":[],"tagcloud":false,"returns":"included","slug":null,"sortorder":[],"display_settings":{"use_lightbox_effect":true,"display_view":"default-view.php","template":"","ajax_pagination":"1","ngg_triggers_display":"never","_errors":[]},"excluded_container_ids":[],"maximum_entity_count":500,"__defaults_set":true,"_errors":[],"ID":"1e0f9c91f798097e05e5783896cb7b5d"};
+galleries.gallery_1e0f9c91f798097e05e5783896cb7b5d.wordpress_page_root = "https:\/\/hotpink-giraffe-187769.hostingersite.com\/steel-detailing-portfolio\/isometric-views\/";
+var nextgen_lightbox_settings = {"static_path":"https:\/\/hotpink-giraffe-187769.hostingersite.com\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/lightbox\/static\/{placeholder}","context":"nextgen_images"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/common.js?ver=3.30" id="ngg_common-js"></script>
+<script type="text/javascript" id="ngg_common-js-after">
+/* <![CDATA[ */
+            var nggLastTimeoutVal = 1000;
+
+			var nggRetryFailedImage = function(img) {
+				setTimeout(function(){
+					img.src = img.src;
+				}, nggLastTimeoutVal);
+			
+				nggLastTimeoutVal += 500;
+			}
+        
+/* ]]> */
+</script>
+<script type="text/javascript" id="ngg_lightbox_context-js-extra">
+/* <![CDATA[ */
+
+var nextgen_shutter_i18n = {"msgLoading":"L O A D I N G","msgClose":"Click to Close"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.js?ver=3.30" id="ngg_lightbox_context-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/shutter/shutter.js?ver=3.30" id="shutter-0-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/shutter/nextgen_shutter.js?ver=3.30" id="shutter-1-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/static/imagebrowser.js?ver=3.30" id="nextgen_basic_imagebrowser_script-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/jquery.nav.js?ver=20160903" id="jquery-nav-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/jquery.bxslider.js?ver=4.1.2" id="jquery-bxslider-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/owl.carousel.js?ver=1.3.3" id="owl-carousel-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/isotope.pkgd.js?ver=20150903" id="isotope-pkgd-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/nivo-lightbox.js?ver=20150903" id="nivo-lightbox-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/superfish.js?ver=20150903" id="superfish-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/wow.js?ver=20150903" id="wow-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/odometer.js?ver=20150903" id="odometer-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/waypoint.js?ver=20150903" id="waypoint-js"></script>
+<script type="text/javascript" id="total-custom-js-extra">
+/* <![CDATA[ */
+var total_localize = {"template_path":"https:\/\/hotpink-giraffe-187769.hostingersite.com\/wp-content\/themes\/computer-repair-pro"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/total-custom.js?ver=20150903" id="total-custom-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/slider.js?ver=1.1" id="slider-js"></script>
+<script type="text/javascript" src="https://hotpink-giraffe-187769.hostingersite.com/wp-content/themes/computer-repair-pro/js/customscripts.js?ver=6.4.3" id="luzuk-premium-customscripts-js"></script>
+
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 7.6.2 on 2026-02-14 08:13:27 -->

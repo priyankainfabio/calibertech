@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #0A0A0A;
+  color: #F5F5F5;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body.light-theme {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 bg-brand-red text-white font-semibold rounded-md transition-all duration-300 hover:bg-red-700 hover:shadow-lg active:scale-95;
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 bg-transparent text-white border-2 border-white font-semibold rounded-md transition-all duration-300 hover:bg-white hover:text-dark-bg;
+  }
+
+  .section-heading {
+    @apply text-4xl md:text-5xl font-bold text-white leading-tight;
+  }
+
+  .section-subheading {
+    @apply text-lg md:text-xl text-dark-text-secondary leading-relaxed;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-brand-red to-red-700 bg-clip-text text-transparent;
+  }
+}
+
+.steel-texture {
+  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #1a1a1a 100%);
+  position: relative;
+}
+
+.steel-texture::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background:
+    repeating-linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.03),
+      rgba(255, 255, 255, 0.03) 1px,
+      transparent 1px,
+      transparent 2px
+    ),
+    repeating-linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.02),
+      rgba(255, 255, 255, 0.02) 1px,
+      transparent 1px,
+      transparent 2px
+    );
+  pointer-events: none;
+}
+
+.red-glow {
+  box-shadow: 0 0 20px rgba(221, 17, 17, 0.3);
+  transition: box-shadow 0.3s ease;
+}
+
+.red-glow:hover {
+  box-shadow: 0 0 30px rgba(221, 17, 17, 0.6);
+}
+
+.parallax {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fade-in-on-scroll {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.fade-in-on-scroll.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
