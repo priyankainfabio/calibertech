@@ -37,8 +37,6 @@ function AppContent() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/infrastructure" element={<Infrastructure />} />
-          <Route path="/mission-vision" element={<MissionVision />} />
-          <Route path="/memberships-certifications" element={<MembershipsCertifications />} />
           <Route path="/services" element={<Services />} />
           <Route path="/services/:serviceId" element={<ServiceDetail />} />
           <Route path="/steel-detailing-portfolio/projects-completed-2" element={<JobsAtSite />} />

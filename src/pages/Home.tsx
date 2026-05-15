@@ -13,6 +13,7 @@ import Blog from '../components/Home/Blog';
 import Members from '../components/Home/Members';
 import QATechnical from '../components/Home/QATechnical';
 import CTA from '../components/Home/CTA';
+import { useLocation } from "react-router-dom";
 
 export default function Home() {
   useEffect(() => {
@@ -45,6 +46,25 @@ export default function Home() {
       },
     ]);
   }, []);
+  const location = useLocation();
+
+useEffect(() => {
+  const params = new URLSearchParams(location.search);
+  const sectionId = params.get("scrollTo");
+
+  if (sectionId) {
+    setTimeout(() => {
+      const section = document.getElementById(sectionId);
+
+      if (section) {
+        section.scrollIntoView({
+          behavior: "smooth",
+          block: "start",
+        });
+      }
+    }, 500);
+  }
+}, [location.search]);
 
   return (
     <main>

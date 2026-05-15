@@ -3,29 +3,50 @@ import { X } from "lucide-react";
 import { Link } from "react-router-dom";
 
 const categories = [
-  "Refineries",
-  "Pipe Racks",
-  "Crusher Buildings",
-  "Bio-diesel Units",
-  "Silo structures",
-  "Airports",
-  "Multi storied Buildings",
-  "Hospitals",
-  "Schools",
-  "Churches",
-  "Banks",
-  "Army Facilities",
-  "Shopping Malls",
-  "Towers",
-  "Pre-Engineered Buildings",
+  {
+    title: "Refineries",
+    image: "/Refinery1.webp",
+    desc: "Industrial refinery and process plant steel structures.",
+  },
+  {
+    title: "Crusher Buildings",
+    image: "/jobs/jobs4.webp",
+    desc: "Heavy industrial crusher building steel structures.",
+  },
+  {
+    title: "Silo Structures",
+    image: "/jobs/jobs3.webp",
+    desc: "Silo, support frame and industrial access steel work.",
+  },
+  {
+    title: "Commercial Buildings",
+    image: "/jobs/jobs2.webp",
+    desc: "Commercial buildings, retail structures and façade steel work.",
+  },
+  {
+    title: "Schools",
+    image: "/jobs/jobs1.webp",
+    desc: "Institutional and school building steel detailing projects.",
+  },
+  {
+    title: "Tekla 3D Models",
+    image: "/tekla/tekla1.webp",
+    desc: "Tekla structure modeling and fabrication-ready 3D detailing.",
+  },
 ];
 
 const categoryImages: Record<string, string[]> = {
   Refineries: ["/Refinery1.webp"],
-  Schools: ["/jobs/jobs2.webp"],
-  "Shopping Malls": ["/jobs/jobs3.webp"],
-  "Multi storied Buildings": ["/jobs/jobs4.webp"],
-  Hospitals: ["/jobs/jobs1.webp"],
+  "Crusher Buildings": ["/jobs/jobs4.webp"],
+  "Silo Structures": ["/jobs/jobs3.webp"],
+  "Commercial Buildings": ["/jobs/jobs2.webp"],
+  Schools: ["/jobs/jobs1.webp"],
+  "Tekla 3D Models": [
+    "/tekla/tekla1.webp",
+    "/tekla/tekla2.webp",
+    "/tekla/tekla3.webp",
+    "/tekla/tekla4.webp",
+  ],
 };
 
 export default function Portfolio() {
@@ -58,16 +79,40 @@ export default function Portfolio() {
             Our priority business segments include:
           </h3>
 
-          <div className="grid gap-2">
+          <div className="grid gap-8 md:grid-cols-2 xl:grid-cols-3">
             {categories.map((cat) => (
-              <button
-                key={cat}
-                onClick={() => setActiveCategory(cat)}
-                className="bg-zinc-100 px-4 py-3 text-left text-lg transition hover:bg-red-600 hover:text-white"
-              >
-                {cat}
-              </button>
-            ))}
+  <button
+    key={cat.title}
+    onClick={() => setActiveCategory(cat.title)}
+    className="group overflow-hidden rounded-2xl border border-zinc-200 bg-white text-left shadow-sm transition-all duration-300 hover:-translate-y-2 hover:border-red-500 hover:shadow-2xl"
+  >
+    <div className="relative h-[190px] overflow-hidden bg-zinc-200">
+      <img
+        src={cat.image}
+        alt={cat.title}
+        className="h-full w-full object-cover transition duration-700 group-hover:scale-110"
+      />
+
+      <div className="absolute left-5 top-5 flex h-12 w-12 items-center justify-center rounded-full bg-red-600 text-white">
+        ↗
+      </div>
+    </div>
+
+    <div className="p-5">
+      <h3 className="text-2xl font-bold text-zinc-900 group-hover:text-red-600">
+        {cat.title}
+      </h3>
+
+      <p className="mt-3 text-base leading-7 text-zinc-600">
+        {cat.desc}
+      </p>
+
+      <div className="mt-5 font-semibold text-red-600">
+        View visuals →
+      </div>
+    </div>
+  </button>
+))}
           </div>
 
           <div className="mt-10 border-t pt-7">

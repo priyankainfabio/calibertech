@@ -62,13 +62,13 @@ const aboutMenu = [
       {
         title: "Mission & Vision",
         icon: Target,
-        href: "/mission-vision",
+        href: "/?scrollTo=mission-vision",
         description: "Our purpose, values and long-term direction",
       },
       {
         title: "Memberships & Certifications",
         icon: BadgeCheck,
-        href: "/memberships-certifications",
+        href: "/?scrollTo=members-section",
         description: "Quality standards and certifications",
       },
     ],

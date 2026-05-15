@@ -10,6 +10,8 @@ const stats = [
   { number: '4000+', label: 'Projects Completed' },
 ];
 
+
+
 export default function Hero() {
   const { theme } = useTheme();
   const isLight = theme === 'light';
