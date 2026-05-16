@@ -1,8 +1,8 @@
 const teklaImages = [
-  { image: "/tekla/tekla1.webp", title: "Write title here" },
-  { image: "/tekla/tekla2.webp", title: "Write title here" },
-  { image: "/tekla/tekla3.webp", title: "Write title here" },
-  { image: "/tekla/tekla4.webp", title: "Write title here" },
+  { image: "/tekla/tekla1.webp", title: "Industrial Structure in Qatar" },
+  { image: "/tekla/tekla2.webp", title: "Mainstreet Storage building in LA, USA" },
+  { image: "/tekla/tekla3.webp", title: "Ras Laffan Olefin Project" },
+  { image: "/tekla/tekla4.webp", title: "Water Treatment plant in US" },
 ];
 
 export default function Tekla3D() {
