@@ -2,11 +2,9 @@ import { useEffect } from 'react';
 import { setMetaTags, setCanonical, setStructuredData, getOrganizationSchema, getBreadcrumbSchema, getWebPageSchema } from '../utils/seo';
 import Hero from '../components/Home/Hero';
 import About from '../components/Home/About';
-import MissionVision from '../components/Home/MissionVision';
 import Services from '../components/Home/Services';
-import DetailingServices from '../components/Home/DetailingServices';
+import PortfolioShowcase from "../components/Home/PortfolioShowcase.tsx";
 import ToWhomWeServe from '../components/Home/ToWhomWeServe';
-import OurExpertise from '../components/Home/OurExpertise';
 import WhyUs from '../components/Home/WhyUs';
 import Projects from '../components/Home/Projects';
 import Blog from '../components/Home/Blog';
@@ -70,12 +68,11 @@ useEffect(() => {
     <main>
       <Hero />
       <About />
-      <OurExpertise />
+      
       <Services />
-      <DetailingServices />
+      <PortfolioShowcase />
       <ToWhomWeServe />
       <WhyUs />
-      <MissionVision />
       <Projects />
       <Members />
       <Blog />

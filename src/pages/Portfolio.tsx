@@ -4,49 +4,163 @@ import { Link } from "react-router-dom";
 
 const categories = [
   {
-    title: "Refineries",
+    title: "Oil & Gas",
     image: "/Refinery1.webp",
-    desc: "Industrial refinery and process plant steel structures.",
+    desc: "Refineries, process plants and pipe rack structures.",
   },
   {
-    title: "Crusher Buildings",
+    title: "Manufacturing",
     image: "/jobs/jobs4.webp",
-    desc: "Heavy industrial crusher building steel structures.",
-  },
-  {
-    title: "Silo Structures",
-    image: "/jobs/jobs3.webp",
-    desc: "Silo, support frame and industrial access steel work.",
+    desc: "Industrial facilities and heavy steel frameworks.",
   },
   {
     title: "Commercial Buildings",
     image: "/jobs/jobs2.webp",
-    desc: "Commercial buildings, retail structures and façade steel work.",
+    desc: "Multi-story steel structures and commercial spaces.",
   },
   {
-    title: "Schools",
+    title: "Warehousing & Logistics",
+    image: "/jobs/jobs3.webp",
+    desc: "PEB structures, distribution centers and storage facilities.",
+  },
+  {
+    title: "Infrastructure",
     image: "/jobs/jobs1.webp",
-    desc: "Institutional and school building steel detailing projects.",
+    desc: "Steel support systems and utility structures.",
+  },
+  {
+    title: "Industrial Plants",
+    image: "/tekla/tekla1.webp",
+    desc: "Process structures, equipment platforms and heavy steel assemblies.",
+  },
+  {
+    title: "Staircases & Railings",
+    image: "/stair-big.webp",
+    desc: "Steel staircases, railings and access structure fabrication.",
   },
   {
     title: "Tekla 3D Models",
-    image: "/tekla/tekla1.webp",
+    image: "/tekla/tekla4.webp",
     desc: "Tekla structure modeling and fabrication-ready 3D detailing.",
   },
+  {
+  title: "Pipe Rack Structures",
+  image: "pipeline.webp",
+  desc: "Steel pipe rack support structures for industrial and process plants.",
+},
+{
+  title: "Equipment Platforms",
+  image: "Equipment.webp",
+  desc: "Access platforms, equipment supports and industrial steel assemblies.",
+},
+{
+  title: "Steel Staircases",
+  image: "steel.webp",
+  desc: "Steel staircases, railings and access structure detailing.",
+},
+{
+  title: "Process Plants",
+  image: "process.webp",
+  desc: "Process plant steel structures, refinery units and heavy frameworks.",
+},
+{
+  title: "Retail & Storefronts",
+  image: "steelf.webp",
+  desc: "Retail frontage, commercial canopy and ornamental steel work.",
+},
+{
+  title: "Utility Structures",
+  image: "support.webp",
+  desc: "Support steel structures for institutional and utility projects.",
+},
+{
+  title: "Isometric Views",
+  image: "isometric.webp",
+  desc: "Detailed piping and fabrication isometric drawings for industrial projects.",
+},
+{
+  title: "Tekla 3D Models Views",
+  image: "/tekla/tekla4.webp",
+  desc: "Fabrication-ready Tekla structure models and BIM coordination.",
+},
 ];
 
 const categoryImages: Record<string, string[]> = {
-  Refineries: ["/Refinery1.webp"],
-  "Crusher Buildings": ["/jobs/jobs4.webp"],
-  "Silo Structures": ["/jobs/jobs3.webp"],
-  "Commercial Buildings": ["/jobs/jobs2.webp"],
-  Schools: ["/jobs/jobs1.webp"],
+  "Oil & Gas": [
+    "/Refinery1.webp",
+    "/portfolio/Refinery1.webp",
+  ],
+
+  Manufacturing: [
+    "/jobs/jobs4.webp",
+    "/portfolio/Charles-De.webp",
+  ],
+
+  "Commercial Buildings": [
+    "/jobs/jobs2.webp",
+    "/portfolio/GVSMainStreet-768x415.webp",
+  ],
+
+  "Warehousing & Logistics": [
+    "/jobs/jobs3.webp",
+    "/portfolio/50208.webp",
+  ],
+
+  Infrastructure: [
+    "/jobs/jobs1.webp",
+    "/portfolio/stairs.webp",
+  ],
+
+  "Industrial Plants": [
+    "/tekla/tekla1.webp",
+    "/tekla/tekla2.webp",
+    "/tekla/tekla3.webp",
+  ],
+
+  "Staircases & Railings": [
+    "/portfolio/stair-big.webp",
+    "/portfolio/stairs.webp",
+  ],
+
   "Tekla 3D Models": [
     "/tekla/tekla1.webp",
     "/tekla/tekla2.webp",
     "/tekla/tekla3.webp",
     "/tekla/tekla4.webp",
   ],
+  "Pipe Rack Structures": ["/portfolio/50208.webp"],
+
+"Equipment Platforms": [
+  "/portfolio/stairs.webp",
+  "/portfolio/Charles-De.webp",
+],
+
+"Steel Staircases": [
+  "/portfolio/stair-big.webp",
+  "/portfolio/stairs.webp",
+],
+
+"Process Plants": [
+  "/portfolio/Refinery1.webp",
+  "/Refinery1.webp",
+],
+
+"Retail & Storefronts": [
+  "/portfolio/GVSMainStreet-768x415.webp",
+  "/jobs/jobs2.webp",
+],
+
+"Utility Structures": [
+  "/jobs/jobs1.webp",
+],
+"Isometric Views": [
+  "/portfolio/isometric.webp",
+  "/portfolio/Refinery1.webp",
+],
+"Tekla 3D Models Views": [
+  "/portfolio/isometric.webp",
+  "/portfolio/Refinery1.webp",
+],
 };
 
 export default function Portfolio() {
@@ -76,7 +190,7 @@ export default function Portfolio() {
           </p>
 
           <h3 className="mb-4 text-xl font-bold">
-            Our priority business segments include:
+            Industries We Serve:
           </h3>
 
           <div className="grid gap-8 md:grid-cols-2 xl:grid-cols-3">

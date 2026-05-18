@@ -8,11 +8,12 @@ const servicesMenu = [
   {
     category: 'Main Services',
     items: [
-      { title: 'Structural Steel Detailing', icon: FileText, href: '/services/structural-steel-detailing', description: 'GA drawings, shop drawings, fabrication documents' },
-      { title: 'Structural Steel Design', icon: Wrench, href: '/services/steel-design', description: 'Code-based steel design and engineering' },
+      { title: 'Structural Engineering', icon: Building2, href: '/services/steel-fabrication', description: 'Structural engineering solutions for industrial and commercial projects' },
       { title: 'Connection Design', icon: CheckCircle2, href: '/services/connection-design', description: 'Bolted & welded connection design' },
-      { title: 'Structural Engineering for Industrial and Commercial Projects', icon: Building2, href: '/services/steel-fabrication', description: 'Structural engineering solutions for industrial and commercial projects' },
       { title: 'PE Stamp', icon: Award, href: '/services/pe-stamp', description: 'Professional engineering stamping services' },
+      { title: 'Shop Drawings', icon: Wrench, href: '/services/structural-steel-detailing', description: 'Fabrication-ready steel detailing and GA drawings' },
+      { title: 'End-to-End Steel Solutions', icon: Wrench, href: '/services/steel-design', description: 'Complete detailing, engineering, modeling & fabrication support' },
+
     ],
   },
 ];

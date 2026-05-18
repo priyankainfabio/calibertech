@@ -47,14 +47,36 @@ export default function Hero() {
       ></div>
 
       {/* Content */}
-      <div className="relative z-20 flex min-h-screen flex-col items-center justify-center p-4 py-20 md:py-0 text-center">
-        <div className="max-w-4xl">
-          <h1 className="font-heading text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-extrabold tracking-tight text-white animate-fade-up" style={{ animationDelay: '0.1s' }}>
-            Innovate. Fabricate. Elevate.
-          </h1>
-          <p className="mt-4 sm:mt-6 max-w-2xl mx-auto text-base sm:text-lg md:text-xl text-gray-300 animate-fade-up" style={{ animationDelay: '0.3s' }}>
-            We are a global leader in structural steel, delivering excellence and precision to complex projects worldwide.
-          </p>
+<div className="relative z-20 flex min-h-[calc(100vh-120px)] flex-col items-center justify-center px-4 py-16 text-center">
+          <div className="max-w-4xl">
+          <div
+  className="mb-5 inline-flex items-center gap-3 rounded-full border border-brand-red/30 bg-brand-red/10 px-5 py-2 text-xs sm:text-sm font-bold uppercase tracking-[3px] text-brand-red animate-fade-up"
+  style={{ animationDelay: '0.05s' }}
+>
+  <span className="h-[2px] w-8 bg-brand-red"></span>
+  21+ Years of Global Structural Steel Expertise
+</div>
+
+<h1
+className="font-heading text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold tracking-tight leading-[0.92] text-white animate-fade-up"
+  style={{ animationDelay: '0.1s' }}
+>
+  Engineering Precision.
+  <br />
+  <span className="text-brand-red">Fabrication</span> Confidence.
+  <br />
+  Global Execution 
+  <br/>
+  Since 2005.
+</h1>
+          <p
+  className="mt-5 max-w-3xl mx-auto text-base sm:text-lg leading-7 text-gray-300 animate-fade-up"
+  style={{ animationDelay: '0.3s' }}
+>
+  Caliber Tech Solutions delivers fabrication-ready steel detailing,
+  connection design, PE stamping, and engineering solutions for
+  industrial and commercial projects across global markets.
+</p>
         </div>
 
         <div className="mt-8 sm:mt-10 flex flex-col sm:flex-row items-center justify-center gap-4 animate-fade-up" style={{ animationDelay: '0.5s' }}>
@@ -62,21 +84,21 @@ export default function Hero() {
             onClick={() => setShowQuotePopup(true)}
             className="group flex items-center justify-center gap-2 rounded-lg bg-brand-red px-6 sm:px-8 py-3 sm:py-3.5 font-semibold text-white shadow-lg transition-transform duration-300 hover:scale-105 w-full sm:w-auto"
           >
-            Get a Quote
+            Request Consultation
             <ArrowRight size={20} className="transition-transform group-hover:translate-x-1" />
           </button>
           <Link
             to="/projects"
             className={`group flex items-center justify-center gap-2 rounded-lg border-2 ${isLight ? 'border-gray-400' : 'border-gray-600'} px-6 sm:px-8 py-3 sm:py-3.5 font-semibold text-white transition-all duration-300 hover:border-brand-red hover:bg-brand-red/10 w-full sm:w-auto`}
           >
-            Our Work
+            Explore Projects
             <ChevronRight size={20} className="transition-transform group-hover:translate-x-1" />
           </Link>
         </div>
       </div>
 
       {/* Bottom Stats Bar */}
-      <div className="absolute bottom-0 left-0 right-0 z-20 bg-black/30 backdrop-blur-sm p-4 sm:p-6">
+      <div className="absolute bottom-0 left-0 right-0 z-25 bg-black/30 backdrop-blur-sm p-4 sm:p-6">
         <div className="container mx-auto">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 text-center">
             {stats.map((stat, index) => (

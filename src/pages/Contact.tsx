@@ -256,6 +256,61 @@ export default function Contact() {
           </div>
         </div>
       </section>
+
+      {/* CAREER SECTION */}
+<section className="mx-auto max-w-7xl px-6 pb-24">
+  <div className="grid gap-10 rounded-3xl border border-white/10 bg-[#151515] p-8 lg:grid-cols-2">
+    <div>
+      <p className="mb-4 text-sm font-bold uppercase tracking-[4px] text-red-500">
+        Career
+      </p>
+
+      <h2 className="text-4xl font-black text-white">
+        Join Caliber <span className="text-red-500">Tech Solutions</span>
+      </h2>
+
+      <p className="mt-6 text-lg leading-8 text-zinc-400">
+        Caliber Tech Solutions believes that our people make us a respected
+        name in the steel design and detailing industry. We encourage and
+        support our technical team, helping them grow with international
+        structural steel projects.
+      </p>
+
+      <p className="mt-5 text-zinc-400">
+        Mail your CV at{" "}
+        <span className="text-red-500">info@calibertechsolutions.com</span> or
+        fill the form below so our HR team can contact you.
+      </p>
+    </div>
+
+    <form className="rounded-2xl bg-black p-6">
+      <div className="grid gap-4 md:grid-cols-2">
+        <input className="rounded-lg border border-white/10 bg-[#111] px-4 py-3 text-white outline-none focus:border-red-500" placeholder="Your Name *" />
+        <input className="rounded-lg border border-white/10 bg-[#111] px-4 py-3 text-white outline-none focus:border-red-500" placeholder="Your Email *" />
+        <input className="rounded-lg border border-white/10 bg-[#111] px-4 py-3 text-white outline-none focus:border-red-500" placeholder="Contact Number *" />
+        <input className="rounded-lg border border-white/10 bg-[#111] px-4 py-3 text-white outline-none focus:border-red-500" placeholder="Subject" />
+
+        <select className="rounded-lg border border-white/10 bg-[#111] px-4 py-3 text-white outline-none focus:border-red-500 md:col-span-2">
+          <option>Position</option>
+          <option>Senior Detailer / Draftman</option>
+          <option>Senior Design Engineer</option>
+          <option>Senior Checker</option>
+          <option>Junior Detailer / Draftsman</option>
+          <option>Junior Design Engineer</option>
+        </select>
+
+        <label className="cursor-pointer rounded-lg border border-dashed border-red-500/50 bg-[#111] px-4 py-3 text-zinc-400 md:col-span-2">
+          Upload Resume PDF only
+          <input type="file" accept=".pdf" className="hidden" />
+        </label>
+      </div>
+
+      <button className="mt-5 w-full rounded-lg bg-red-600 px-6 py-4 font-bold text-white transition hover:bg-red-700">
+        Submit Career Application
+      </button>
+    </form>
+  </div>
+</section>
     </main>
   );
 }
