@@ -267,7 +267,7 @@ export default function ProjectsShowcase() {
     },
     {
       category: "Tekla Models View",
-      image: "public/tekla/t1.webp",
+      image: "public/tekla/t2.webp",
       title: "Tekla Models View",
       desc: "Fabrication-ready Tekla model for structural steel detailing.",
       tags: ["Tekla", "Modeling", "BIM"],
@@ -276,7 +276,7 @@ export default function ProjectsShowcase() {
 
     {
       category: "Tekla Models View",
-      image: "public/tekla/t1.webp",
+      image: "public/tekla/t3.webp",
       title: "Tekla Models View",
       desc: "Fabrication-ready Tekla model for structural steel detailing.",
       tags: ["Tekla", "Modeling", "BIM"],
