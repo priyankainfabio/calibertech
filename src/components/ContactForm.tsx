@@ -231,7 +231,7 @@ export default function ContactForm({ compact = false }: ContactFormProps) {
           Requirements
         </label>
         <div className="grid grid-cols-2 gap-3">
-          {['Detailing', 'PE Stamp', 'Engineering', 'All'].map(req => (
+          {['Structural Engineering', 'Connection Design', 'PE Stamp', 'Shop Drawing', 'Engineering & Detailing'].map(req => (
             <label
               key={req}
               className={`flex items-center gap-3 cursor-pointer group`}

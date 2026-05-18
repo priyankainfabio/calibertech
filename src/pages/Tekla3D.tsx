@@ -1,9 +1,24 @@
 const teklaImages = [
-  { image: "/tekla/tekla1.webp", title: "Industrial Structure in Qatar" },
-  { image: "/tekla/tekla2.webp", title: "Mainstreet Storage building in LA, USA" },
-  { image: "/tekla/tekla3.webp", title: "Ras Laffan Olefin Project" },
-  { image: "/tekla/tekla4.webp", title: "Water Treatment plant in US" },
-];
+  { image: "/tekla/t1.webp", title: "Industrial Pipe Rack 3D Model" },
+  { image: "/tekla/t2.webp", title: "Commercial Steel BIM Structure" },
+  { image: "/tekla/t3.webp", title: "Ras Laffan Olefin Plant Model" },
+  { image: "/tekla/t4.webp", title: "Water Treatment Steel Framework" },
+  { image: "/tekla/t5.webp", title: "Steel Conveyor Support System" },
+  { image: "/tekla/t6.webp", title: "Multi-Level Access Platform" },
+  { image: "/tekla/t7.webp", title: "Airport Entry Canopy BIM Model" },
+  { image: "/tekla/t8.webp", title: "Industrial Building Steel Detailing" },
+  { image: "/tekla/t9.webp", title: "Pipe Support Isometric View" },
+  { image: "/tekla/t10.webp", title: "Structural Steel Framing Model" },
+  { image: "/tekla/t11.webp", title: "Warehouse Roof Framing System" },
+  { image: "/tekla/t12.webp", title: "Industrial Roof Truss Detailing" },
+  { image: "/tekla/t13.webp", title: "Large Scale Steel BIM Coordination" },
+  { image: "/tekla/t14.webp", title: "Complex Industrial Isometric View" },
+  { image: "/tekla/t15.webp", title: "Architectural Steel Roof Structure" },
+  { image: "/tekla/t16.webp", title: "Heavy Industrial Support Framework" },
+  { image: "/tekla/t17.webp", title: "Steel Tower Support Structure" },
+  { image: "/tekla/t18.webp", title: "Industrial Platform & Stair System" },
+  { image: "/tekla/t19.webp", title: "Advanced Conveyor Steel Model" },
+  { image: "/tekla/t20.webp", title: "Tekla BIM Coordination Structure" },];
 
 export default function Tekla3D() {
   return (
@@ -18,7 +33,7 @@ export default function Tekla3D() {
         </h1>
 
         <p className="mx-auto mt-6 max-w-3xl text-lg text-zinc-400">
-          Tekla 3D modeling, steel detailing, BIM coordination and fabrication-ready structural models.
+          Tekla modeling, steel detailing, BIM coordination and fabrication-ready structural models.
         </p>
       </section>
 

@@ -292,6 +292,11 @@ export default function Contact() {
 
         <select className="rounded-lg border border-white/10 bg-[#111] px-4 py-3 text-white outline-none focus:border-red-500 md:col-span-2">
           <option>Position</option>
+          <option>Project manager</option>
+          <option>Project coordinator</option>
+          <option>HR</option>
+          <option>IT Admin</option>
+          <option>Sales & Marketing</option>
           <option>Senior Detailer / Draftman</option>
           <option>Senior Design Engineer</option>
           <option>Senior Checker</option>

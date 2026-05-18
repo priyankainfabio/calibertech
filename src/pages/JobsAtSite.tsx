@@ -3,7 +3,17 @@ const jobsImages = [
   { image: "/jobs/jobs2.webp", title: "Central High School in New York" },
   { image: "/jobs/jobs3.webp", title: "Kitchen and Bar house in BC" },
   { image: "/jobs/jobs4.webp", title: "Commercial Retail building, BC" },
+  { image: "/Charles-De.webp", title: "Commercial Steel Building" },
+  { image: "/Equipment.webp", title: "Heavy Equipment Support Structure" },
+  { image: "/GVSMainStreet-768x415.webp", title: "Urban Commercial Development" },
+  { image: "/process.webp", title: "Process Plant Installation" },
+  { image: "/stair-big.webp", title: "Exterior Steel Staircase" },
+  { image: "/stairs.webp", title: "Industrial Access Tower" },
+  { image: "/steel.webp", title: "Structural Steel Construction" },
+  { image: "/steelf.webp", title: "Steel Framing System" },
+  { image: "/support.webp", title: "Roof Access Support Frame" },
 ];
+
 
 export default function JobsAtSite() {
   return (

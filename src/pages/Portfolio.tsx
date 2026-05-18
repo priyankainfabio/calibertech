@@ -39,9 +39,9 @@ const categories = [
     desc: "Steel staircases, railings and access structure fabrication.",
   },
   {
-    title: "Tekla 3D Models",
+    title: "Tekla Models View",
     image: "/tekla/tekla4.webp",
-    desc: "Tekla structure modeling and fabrication-ready 3D detailing.",
+    desc: "Tekla structure modeling and fabrication-ready detailing.",
   },
   {
   title: "Pipe Rack Structures",
@@ -77,11 +77,6 @@ const categories = [
   title: "Isometric Views",
   image: "isometric.webp",
   desc: "Detailed piping and fabrication isometric drawings for industrial projects.",
-},
-{
-  title: "Tekla 3D Models Views",
-  image: "/tekla/tekla4.webp",
-  desc: "Fabrication-ready Tekla structure models and BIM coordination.",
 },
 ];
 
@@ -122,7 +117,7 @@ const categoryImages: Record<string, string[]> = {
     "/portfolio/stairs.webp",
   ],
 
-  "Tekla 3D Models": [
+  "Tekla Models View": [
     "/tekla/tekla1.webp",
     "/tekla/tekla2.webp",
     "/tekla/tekla3.webp",
@@ -154,8 +149,12 @@ const categoryImages: Record<string, string[]> = {
   "/jobs/jobs1.webp",
 ],
 "Isometric Views": [
-  "/portfolio/isometric.webp",
-  "/portfolio/Refinery1.webp",
+  "public/isometric.webp",
+  "public/images/isometric/11.jpg",
+  "public/images/isometric/12.jpg",
+  "public/images/isometric/13.jpg",
+  "public/images/isometric/14.jpg",
+  "public/images/isometric/15.jpg"
 ],
 "Tekla 3D Models Views": [
   "/portfolio/isometric.webp",
