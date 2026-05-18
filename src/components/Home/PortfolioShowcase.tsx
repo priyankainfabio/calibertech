@@ -123,7 +123,7 @@ const industries = [
     description:
       "Steel support systems, stair towers and utility structures.",
 
-    cover: "/stairs.jpg",
+    cover: "/stairs.webp",
 
     projects: [
       {
