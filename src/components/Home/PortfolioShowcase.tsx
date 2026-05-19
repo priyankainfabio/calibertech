@@ -4,6 +4,7 @@ import { ArrowUpRight } from "lucide-react";
 export default function ProjectsShowcase() {
   const [activeFilter, setActiveFilter] = useState("All Projects");
   const [showTekla, setShowTekla] = useState(false);
+  const [showMoreGallery, setShowMoreGallery] = useState(false);
 
   const filters = [
     "All Projects",
@@ -276,7 +277,7 @@ export default function ProjectsShowcase() {
 
     {
       category: "Tekla Models View",
-      image: "public/tekla/t3.webp",
+      image: "/tekla/t3.webp",
       title: "Tekla Models View",
       desc: "Fabrication-ready Tekla model for structural steel detailing.",
       tags: ["Tekla", "Modeling", "BIM"],
@@ -285,100 +286,128 @@ export default function ProjectsShowcase() {
   ];
   const teklaImages = [
   {
-    image: "public/tekla/t2.webp",
+    image: "/tekla/t2.webp",
     title: "Roof Access Steel Model",
     desc: "Tekla steel model for rooftop access and support framework.",
   },
   {
-    image: "public/tekla/t3.webp",
+    image: "/tekla/t3.webp",
     title: "Industrial Refinery Structure",
     desc: "Tekla model for refinery and heavy industrial steel systems.",
   },
   {
-    image: "public/tekla/t4.webp",
+    image: "/tekla/t4.webp",
     title: "Commercial Steel Structure",
     desc: "Commercial steel model prepared for fabrication and erection.",
   },
   {
-    image: "public/tekla/t5.webp",
+    image: "/tekla/t5.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t6.webp",
+    image: "/tekla/t6.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t7.webp",
+    image: "/tekla/t7.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t8.webp",
+    image: "/tekla/t8.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t9.webp",
+    image: "/tekla/t9.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t10.webp",
+    image: "/tekla/t10.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t11.webp",
+    image: "/tekla/t11.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t12.webp",
+    image: "/tekla/t12.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t13.webp",
+    image: "/tekla/t13.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t14.webp",
+    image: "/tekla/t14.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t15.webp",
+    image: "/tekla/t15.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t16.webp",
+    image: "/tekla/t16.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t17.webp",
+    image: "/tekla/t17.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t18.webp",
+    image: "/tekla/t18.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t19.webp",
+    image: "/tekla/t19.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
   {
-    image: "public/tekla/t20.webp",
+    image: "/tekla/t20.webp",
     title: "Heavy Industrial Framework",
     desc: "Complex industrial steel detailing and BIM coordination.",
   },
+];
+const moreGallery = [
+  
+  { image: "/moody elements school/snap_001.png", title: "Moody Elementary" },
+  { image: "/moody elements school/snap_002.png", title: "Moody Elementary" },
+  { image: "/moody elements school/snap_003.png", title: "Moody Elementary" },
+  { image: "/moody elements school/snap_004.png", title: "Moody Elementary" },
+  { image: "/Mohawk Harbor/snap_001.png", title: "Mohawk Harbor Event Center" },
+  { image: "/Mohawk Harbor/snap_002.png", title: "Mohawk Harbor Event Center" },
+  { image: "/Mohawk Harbor/snap_003.png", title: "Mohawk Harbor Event Center" },
+  { image: "/Mohawk Harbor/snap_004.png", title: "Mohawk Harbor Event Center" },
+  { image: "/cmom/snap_001.png", title: "Children's Museum" },
+  { image: "/Rolex Jumbo/snap_001 (1).png", title: "Rolex Jumbo Steel" },
+  { image: "/Rolex Jumbo/snap_002 (1).png", title: "Rolex Jumbo Steel" },
+  { image: "/Rolex Jumbo/snap_003 (1).png", title: "Rolex Jumbo Steel" },
+  { image: "/Rolex Jumbo/snap_004 (1).png", title: "Rolex Jumbo Steel" },
+  { image: "/water street/snap_001.png", title: "160 Water Street" },
+  { image: "/water street/snap_002.png", title: "160 Water Street" },
+  { image: "/water street/snap_003.png", title: "160 Water Street" },
+  { image: "/water street/snap_004.png", title: "160 Water Street" },
+  { image: "/w 11/snap_001.png", title: "332 W 11th Street" },
+  { image: "/w 11/snap_002.png", title: "332 W 11th Street" },
+  { image: "/w 11/snap_003.png", title: "332 W 11th Street" },
+  { image: "/w 11/snap_004.png", title: "332 W 11th Street" },
+  { image: "/Steel support/snap_001.png", title: "76 11th Ave Secondary Steel Facade Support" },
+  { image: "/Steel support/snap_002.png", title: "76 11th Ave Secondary Steel Facade Support" },
+  { image: "/Steel support/snap_003.png", title: "76 11th Ave Secondary Steel Facade Support" },
+  { image: "/Steel support/snap_004.png", title: "76 11th Ave Secondary Steel Facade Support" },
 ];
 
   const filteredProjects =
@@ -427,6 +456,12 @@ export default function ProjectsShowcase() {
               {filter}
             </button>
           ))}
+          <button
+  onClick={() => setShowMoreGallery(true)}
+  className="rounded-xl border border-red-500 bg-red-600 px-7 py-4 text-lg font-semibold text-white transition hover:bg-red-700"
+>
+  View More
+</button>
         </div>
 
         {/* PROJECT GRID */}
@@ -526,6 +561,47 @@ export default function ProjectsShowcase() {
             <div className="p-5">
               <h3 className="text-2xl font-bold text-white">{item.title}</h3>
               <p className="mt-3 text-zinc-400">{item.desc}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+)}
+{showMoreGallery && (
+  <div className="fixed inset-0 z-[9999] overflow-y-auto bg-black/90 p-6 backdrop-blur-md">
+    <div className="mx-auto max-w-7xl">
+      <div className="mb-10 flex items-start justify-between gap-6">
+        <div>
+          <h2 className="text-5xl font-black text-white">
+            Full Model Snap Gallery
+          </h2>
+          <p className="mt-4 max-w-3xl text-zinc-400">
+            Explore more BIM coordination, Tekla modeling, and structural project snapshots.
+          </p>
+        </div>
+
+        <button
+          onClick={() => setShowMoreGallery(false)}
+          className="rounded-full bg-red-600 px-5 py-3 font-bold text-white"
+        >
+          Close
+        </button>
+      </div>
+
+      <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
+        {moreGallery.map((item, index) => (
+          <div
+            key={index}
+            className="overflow-hidden rounded-2xl border border-white/10 bg-zinc-900"
+          >
+            <img
+              src={item.image}
+              alt={item.title}
+              className="h-[260px] w-full object-cover"
+            />
+            <div className="p-5">
+              <h3 className="text-2xl font-bold text-white">{item.title}</h3>
             </div>
           </div>
         ))}
