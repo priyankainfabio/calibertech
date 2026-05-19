@@ -46,7 +46,7 @@ export default function ProjectsShowcase() {
 
     {
       category: "Jobs at Site",
-      image:"public/50208.webp",
+      image:"/50208.webp",
       title: "Industrial Plant Structure",
       desc: "Heavy industrial structural steel installation with access systems and platforms.",
       tags: ["Industrial", "Plant", "Steel"],
@@ -54,7 +54,7 @@ export default function ProjectsShowcase() {
 
     {
       category: "Jobs at Site",
-      image: "public/Charles-De.webp",
+      image: "/Charles-De.webp",
       title: "Refinery Construction",
       desc: "Refinery steel detailing and erection support for large-scale industrial operations.",
       tags: ["Refinery", "Oil & Gas", "Industrial"],
@@ -62,7 +62,7 @@ export default function ProjectsShowcase() {
 
     {
       category: "Jobs at Site",
-      image: "public/Equipment.webp",
+      image: "/Equipment.webp",
       title: "Structural Beam Installation",
       desc: "Precision beam installation and framing support executed on-site.",
       tags: ["Structural", "Beam", "Steel"],
@@ -70,7 +70,7 @@ export default function ProjectsShowcase() {
 
     {
       category: "Jobs at Site",
-      image: "public/GVSMainStreet-768x415.webp",
+      image: "/GVSMainStreet-768x415.webp",
       title: "Multi-Level Commercial Structure",
       desc: "Commercial project steel framework construction with advanced detailing.",
       tags: ["Commercial", "Structure", "Steel"],
@@ -79,7 +79,7 @@ export default function ProjectsShowcase() {
 
     {
       category: "Jobs at Site",
-      image: "public/process.webp",
+      image: "/process.webp",
       title: "Industrial Steel Framework",
       desc: "Fabrication-ready industrial framework installed for process facility.",
       tags: ["Industrial", "Fabrication", "Framework"],
@@ -87,7 +87,7 @@ export default function ProjectsShowcase() {
 
     {
       category: "Jobs at Site",
-      image: "public/stair-big.webp",
+      image: "/stair-big.webp",
       title: "Interior Structural Steel",
       desc: "Interior structural steel and roofing support system installation.",
       tags: ["Interior", "Roofing", "Steel"],
@@ -95,7 +95,7 @@ export default function ProjectsShowcase() {
 
     {
       category: "Jobs at Site",
-      image: "public/stairs.webp",
+      image: "/stairs.webp",
       title: "Process Equipment Installation",
       desc: "Steel support systems for industrial process equipment and vessels.",
       tags: ["Equipment", "Industrial", "Support"],
@@ -103,7 +103,7 @@ export default function ProjectsShowcase() {
 
     {
       category: "Jobs at Site",
-      image: "public/steel.webp",
+      image: "/steel.webp",
       title: "Exterior Steel Staircase",
       desc: "Exterior staircase fabrication and installation for commercial property.",
       tags: ["Staircase", "Commercial", "Steel"],
@@ -111,7 +111,7 @@ export default function ProjectsShowcase() {
 
     {
       category: "Jobs at Site",
-      image: "public/steelf.webp",
+      image: "/steelf.webp",
       title: "Roof Access Steel System",
       desc: "Roof access and safety steel system installation at project site.",
       tags: ["Roof Access", "Safety", "Steel"],
@@ -119,7 +119,7 @@ export default function ProjectsShowcase() {
 
     {
       category: "Jobs at Site",
-      image: "public/support.webp",
+      image: "/support.webp",
       title: "Industrial Tower Erection",
       desc: "Heavy-duty industrial tower erection with structural steel coordination.",
       tags: ["Tower", "Industrial", "Erection"],
@@ -129,7 +129,7 @@ export default function ProjectsShowcase() {
 
     {
       category: "Isometric View",
-      image: "public/isometric.webp",
+      image: "/isometric.webp",
       title: "Industrial Isometric View",
       desc: "Detailed isometric structural model prepared for fabrication coordination.",
       tags: ["Isometric", "Engineering", "Coordination"],
@@ -137,42 +137,42 @@ export default function ProjectsShowcase() {
 
     {
       category: "Isometric View",
-      image: "public/images/isometric/11.jpg",
+      image: "/images/isometric/11.jpg",
       title: "Steel Pipe Rack Isometric",
       desc: "Pipe rack and industrial structure isometric detailing view.",
       tags: ["Pipe Rack", "Steel Detailing", "Isometric"],
     },
     {
   category: "Isometric View",
-  image: "public/isometric/iso1.webp",
+  image: "/isometric/iso1.webp",
   title: "Silo Structure Isometric View",
   desc: "Isometric drawing for silo support and industrial equipment structure.",
   tags: ["Silo", "Industrial", "Isometric"],
 },
 {
   category: "Isometric View",
-  image: "public/images/isometric/13.jpg",
+  image: "/images/isometric/13.jpg",
   title: "Utility Tower Isometric View",
   desc: "Tall steel utility tower isometric view for structural coordination.",
   tags: ["Tower", "Steel Structure", "Isometric"],
 },
 {
   category: "Isometric View",
-  image: "public/images/isometric/14.jpg",
+  image: "/images/isometric/14.jpg",
   title: "Conveyor Support Isometric View",
   desc: "Conveyor and access support steel structure isometric view.",
   tags: ["Conveyor", "Support Steel", "Isometric"],
 },
 {
   category: "Isometric View",
-  image: "public/images/isometric/15.jpg",
+  image: "/images/isometric/15.jpg",
   title: "Conveyor Support Isometric View",
   desc: "Conveyor and access support steel structure isometric view.",
   tags: ["Conveyor", "Support Steel", "Isometric"],
 },
 {
   category: "Isometric View",
-  image: "public/isometric/iso1.webp",
+  image: "/isometric/iso1.webp",
   title: "Industrial Tower Structure",
   desc: "Advanced steel tower isometric detailing developed for heavy industrial applications.",
   tags: ["Isometric", "Industrial", "Steel Detailing"],
@@ -180,7 +180,7 @@ export default function ProjectsShowcase() {
 
 {
   category: "Isometric View",
-  image: "public/isometric/iso2.webp",
+  image: "/isometric/iso2.webp",
   title: "Access Platform & Staircase",
   desc: "Tekla isometric platform model with staircase and safety railing detailing.",
   tags: ["Access Platform", "Tekla", "3D View"],
@@ -188,7 +188,7 @@ export default function ProjectsShowcase() {
 
 {
   category: "Isometric View",
-  image: "public/isometric/iso3.webp",
+  image: "/isometric/iso3.webp",
   title: "Airport Entry Canopy",
   desc: "Curved steel canopy detailing developed for airport infrastructure project.",
   tags: ["Canopy", "Infrastructure", "Steel"],
@@ -196,7 +196,7 @@ export default function ProjectsShowcase() {
 
 {
   category: "Isometric View",
-  image: "public/isometric/iso4.webp",
+  image: "/isometric/iso4.webp",
   title: "Industrial Plant Framework",
   desc: "Large-scale industrial steel framing and connection detailing project.",
   tags: ["Industrial Plant", "Steel Structure", "BIM"],
@@ -204,7 +204,7 @@ export default function ProjectsShowcase() {
 
 {
   category: "Isometric View",
-  image: "public/isometric/iso5.webp",
+  image: "/isometric/iso5.webp",
   title: "Pipe Rack Steel Model",
   desc: "Pipe rack support system designed with precise structural coordination.",
   tags: ["Pipe Rack", "Industrial", "Steel"],
@@ -212,7 +212,7 @@ export default function ProjectsShowcase() {
 
 {
   category: "Isometric View",
-  image: "/public/isometric/iso6.webp",
+  image: "/isometric/iso6.webp",
   title: "Commercial Building 3D View",
   desc: "Commercial structural framing with detailed 3D visualization and modeling.",
   tags: ["Commercial", "3D View", "Tekla"],
@@ -220,7 +220,7 @@ export default function ProjectsShowcase() {
 
 {
   category: "Isometric View",
-  image: "/public/isometric/iso7.webp",
+  image: "/isometric/iso7.webp",
   title: "Structural Roof Framing",
   desc: "Roof framing system developed for fabrication-ready steel execution.",
   tags: ["Roof Framing", "Steel", "Structural"],
@@ -228,7 +228,7 @@ export default function ProjectsShowcase() {
 
 {
   category: "Isometric View",
-  image: "/public/isometric/iso8.webp",
+  image: "/isometric/iso8.webp",
   title: "Complex Industrial Layout",
   desc: "Detailed industrial framework with multi-level steel coordination.",
   tags: ["Industrial", "Complex Structure", "Tekla"],
@@ -236,7 +236,7 @@ export default function ProjectsShowcase() {
 
 {
   category: "Isometric View",
-  image: "/public/isometric/iso9.webp",
+  image: "/isometric/iso9.webp",
   title: "Warehouse Structural Model",
   desc: "Warehouse steel detailing model optimized for fabrication workflows.",
   tags: ["Warehouse", "Steel Detailing", "3D"],
@@ -244,7 +244,7 @@ export default function ProjectsShowcase() {
 
 {
   category: "Isometric View",
-  image: "/public/isometric/iso10.webp",
+  image: "/isometric/iso10.webp",
   title: "Steel Roof System",
   desc: "Advanced roof steel system designed with connection-level precision.",
   tags: ["Roof System", "Steel", "Fabrication"],
@@ -252,14 +252,14 @@ export default function ProjectsShowcase() {
 
 {
   category: "Isometric View",
-  image: "/public/isometric/iso11.webp",
+  image: "/isometric/iso11.webp",
   title: "Commercial Structural Layout",
   desc: "Large commercial steel framework modeled for BIM coordination and detailing.",
   tags: ["Commercial", "BIM", "Isometric"],
 },
 {
       category: "Tekla Models View",
-      image: "public/tekla/t1.webp",
+      image: "/tekla/t1.webp",
       title: "Tekla Models View",
       desc: "Fabrication-ready Tekla model for structural steel detailing.",
       tags: ["Tekla", "Modeling", "BIM"],
@@ -267,7 +267,7 @@ export default function ProjectsShowcase() {
     },
     {
       category: "Tekla Models View",
-      image: "public/tekla/t2.webp",
+      image: "/tekla/t2.webp",
       title: "Tekla Models View",
       desc: "Fabrication-ready Tekla model for structural steel detailing.",
       tags: ["Tekla", "Modeling", "BIM"],
