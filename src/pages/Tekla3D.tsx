@@ -29,7 +29,7 @@ export default function Tekla3D() {
         </p>
 
         <h1 className="text-5xl md:text-7xl font-black">
-          Tekla <span className="text-red-500">3D</span>
+          Tekla <span className="text-red-500">3D view of models</span>
         </h1>
 
         <p className="mx-auto mt-6 max-w-3xl text-lg text-zinc-400">
