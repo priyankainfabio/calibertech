@@ -51,7 +51,7 @@ const isometricImages = [
     id: 18,
     src: 'https://content.app-sources.com/s/432484035579470251/uploads/Caliber/1-3286297.webp?format=webp',
     title: 'Structural Steel Isometric View - Project 8',
-    description: 'Detailed Tekla model isometric view of complete structural steel framework',
+    description: 'Detailed 3D model isometric view of complete structural steel framework',
   },
   {
     id: 19,
@@ -101,7 +101,7 @@ const capabilities = [
   {
     icon: Grid,
     title: 'Isometric Projections',
-    description: 'Precise isometric views of Tekla models showing all structural elements from optimal angles.',
+    description: 'Precise isometric views of 3D models showing all structural elements from optimal angles.',
   },
   {
     icon: Layers,
@@ -129,14 +129,14 @@ export default function IsometricViews() {
   useEffect(() => {
     setMetaTags(
       'Isometric Views | Steel Detailing Portfolio | Caliber Tech Solutions',
-      'Explore isometric views of Tekla Structures 3D models from Caliber Tech Solutions. View detailed isometric projections of structural steel projects including commercial, industrial, and residential buildings.',
-      'isometric views, Tekla Structures 3D models, steel detailing portfolio, structural steel isometric, BIM 3D steel modeling, Tekla steel detailing experts, steel frame isometric views'
+      'Explore isometric views of 3D Structures models from Caliber Tech Solutions. View detailed isometric projections of structural steel projects including commercial, industrial, and residential buildings.',
+      'isometric views, 3D Structures models, steel detailing portfolio, structural steel isometric, BIM 3D steel modeling, Tekla steel detailing experts, steel frame isometric views'
     );
     setCanonical('/steel-detailing-portfolio/isometric-views');
     setStructuredData([
       getWebPageSchema(
         'Isometric Views | Steel Detailing Portfolio | Caliber Tech Solutions',
-        'Explore isometric views of Tekla Structures 3D models from Caliber Tech Solutions. View detailed isometric projections of structural steel projects.',
+        'Explore isometric views of 3D Structures models from Caliber Tech Solutions. View detailed isometric projections of structural steel projects.',
         '/steel-detailing-portfolio/isometric-views'
       ),
       getBreadcrumbSchema([
@@ -186,7 +186,7 @@ export default function IsometricViews() {
         <div className="absolute inset-0 z-0">
           <img
             src="/images/isometric/12.jpg"
-            alt="Isometric views of Tekla Structures 3D steel models for structural steel detailing"
+            alt="Isometric views of 3D Structures steel models for structural steel detailing"
             className="w-full h-full object-cover"
           />
           <div className={`absolute inset-0 ${isLight ? 'bg-black/60' : 'bg-black/75'}`}></div>
@@ -213,7 +213,7 @@ export default function IsometricViews() {
             <div className="flex items-center justify-center gap-3 mb-6">
               <div className="h-1 w-16 bg-brand-red rounded-full" />
               <p className="text-lg md:text-xl text-white/90 max-w-3xl">
-                Isometric views of Tekla Structures 3D Models
+                Isometric views of 3D Structures Models
               </p>
               <div className="h-1 w-16 bg-brand-red rounded-full" />
             </div>
@@ -233,11 +233,11 @@ export default function IsometricViews() {
                     <Eye size={24} className="text-brand-red" />
                   </div>
                   <h2 className={`text-3xl font-bold ${isLight ? 'text-gray-900' : 'text-white'} transition-colors duration-300`}>
-                    Isometric View of Tekla Structures 3D Models
+                    Isometric View of 3D Structures Models
                   </h2>
                 </div>
                 <p className={`text-lg ${isLight ? 'text-gray-700' : 'text-dark-text-secondary'} leading-relaxed mb-4 transition-colors duration-300`}>
-                  Check out some of our Tekla model isometric views. These detailed projections showcase the structural steel framing, connections, and member layouts from optimal viewing angles for clear communication and coordination.
+                  Check out some of our 3D model isometric views. These detailed projections showcase the structural steel framing, connections, and member layouts from optimal viewing angles for clear communication and coordination.
                 </p>
                 <p className={`text-lg ${isLight ? 'text-gray-700' : 'text-dark-text-secondary'} leading-relaxed transition-colors duration-300`}>
                   Isometric views are essential for visualizing complex steel structures, allowing engineers, fabricators, and erectors to understand the complete assembly before fabrication begins.
@@ -289,9 +289,9 @@ export default function IsometricViews() {
                 </h2>
                 <p className={`text-lg ${isLight ? 'text-gray-700' : 'text-dark-text-secondary'} leading-relaxed mb-6 transition-colors duration-300`}>
                   Check out some of our{' '}
-                  <Link to="/steel-detailing-portfolio/models" className="text-brand-red hover:text-red-700 font-semibold underline">Tekla model views</Link>,{' '}
+                  <Link to="/steel-detailing-portfolio/models" className="text-brand-red hover:text-red-700 font-semibold underline">3D model views</Link>,{' '}
                   <Link to="/steel-detailing-portfolio/models" className="text-brand-red hover:text-red-700 font-semibold underline">3D PDFs</Link>{' '}
-                  of the Tekla Structures models. For any quotations for Structural Steel{' '}
+                  of the 3D Structures models. For any quotations for Structural Steel{' '}
                   <Link to="/services/steel-design" className="text-brand-red hover:text-red-700 font-semibold underline">Design</Link>,{' '}
                   <Link to="/services/structural-steel-detailing" className="text-brand-red hover:text-red-700 font-semibold underline">Detailing</Link>,{' '}
                   <Link to="/services/pe-stamp" className="text-brand-red hover:text-red-700 font-semibold underline">Estimation</Link>{' '}
@@ -307,7 +307,7 @@ export default function IsometricViews() {
                   >
                     <ArrowRight size={18} className="text-brand-red group-hover:translate-x-1 transition-transform duration-300" />
                     <span className={`font-semibold ${isLight ? 'text-gray-700' : 'text-dark-text-secondary'}`}>
-                      Tekla 3D Models
+                      3D Models view
                     </span>
                   </Link>
                   <Link
@@ -382,7 +382,7 @@ export default function IsometricViews() {
                 </h3>
                 <ul className="space-y-3">
                   {[
-                    { name: 'Tekla Structure 3D Models', href: '/steel-detailing-portfolio/models' },
+                    { name: '3D Structure Models view', href: '/steel-detailing-portfolio/models' },
                     { name: 'Commercial Buildings', href: '/projects/commercial' },
                     { name: 'Industrial Facilities', href: '/projects/industrial' },
                     { name: 'Infrastructure Projects', href: '/projects/infrastructure' },

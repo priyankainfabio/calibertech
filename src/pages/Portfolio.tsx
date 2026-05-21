@@ -39,9 +39,9 @@ const categories = [
     desc: "Steel staircases, railings and access structure fabrication.",
   },
   {
-    title: "Tekla Models View",
+    title: "3D Models View",
     image: "/tekla/tekla4.webp",
-    desc: "Tekla structure modeling and fabrication-ready detailing.",
+    desc: "3D structure modeling and fabrication-ready detailing.",
   },
   {
   title: "Pipe Rack Structures",
@@ -117,7 +117,7 @@ const categoryImages: Record<string, string[]> = {
     "/portfolio/stairs.webp",
   ],
 
-  "Tekla Models View": [
+  "3D Models View": [
     "/tekla/tekla1.webp",
     "/tekla/tekla2.webp",
     "/tekla/tekla3.webp",
@@ -156,7 +156,7 @@ const categoryImages: Record<string, string[]> = {
   "public/images/isometric/14.jpg",
   "public/images/isometric/15.jpg"
 ],
-"Tekla 3D Models Views": [
+"3D Models Views": [
   "/portfolio/isometric.webp",
   "/portfolio/Refinery1.webp",
 ],
@@ -246,7 +246,7 @@ export default function Portfolio() {
                 to="/steel-detailing-portfolio/tekla-3d"
                 className="border border-red-600 px-8 py-4 text-lg text-red-600"
               >
-                3D Tekla model view
+                3D models view
               </Link>
             </div>
           </div>

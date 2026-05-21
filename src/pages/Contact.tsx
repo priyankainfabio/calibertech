@@ -80,6 +80,68 @@ export default function Contact() {
                     title="Form 0"
                   />
                 </div>
+                {/* QUICK CONTACT OPTIONS */}
+<div className="mt-8 grid md:grid-cols-2 gap-5">
+
+  {/* WHATSAPP */}
+  <a
+    href="https://wa.me/919871177166?text=Hi%20Caliber%20Tech%20Solutions,%20I%20want%20to%20discuss%20my%20project."
+    target="_blank"
+    rel="noopener noreferrer"
+    className="group relative overflow-hidden rounded-2xl border border-white/10 bg-[#111111] p-5 transition-all duration-500 hover:-translate-y-1 hover:border-green-500/40"
+  >
+    <div className="absolute inset-0 bg-gradient-to-br from-green-500/10 to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100"></div>
+
+    <div className="relative flex items-center gap-4">
+      <div className="flex h-14 w-14 items-center justify-center rounded-xl bg-green-500 text-white text-2xl">
+        💬
+      </div>
+
+      <div>
+        <p className="text-xs uppercase tracking-[3px] text-green-400">
+          WhatsApp
+        </p>
+
+        <h4 className="text-xl font-bold text-white mt-1">
+          Chat With Us
+        </h4>
+
+        <p className="text-sm text-zinc-400 mt-1">
+          Instant project assistance
+        </p>
+      </div>
+    </div>
+  </a>
+
+  {/* CALL */}
+  <a
+    href="tel:+17605882207"
+    className="group relative overflow-hidden rounded-2xl border border-white/10 bg-[#111111] p-5 transition-all duration-500 hover:-translate-y-1 hover:border-red-500/40"
+  >
+    <div className="absolute inset-0 bg-gradient-to-br from-red-500/10 to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100"></div>
+
+    <div className="relative flex items-center gap-4">
+      <div className="flex h-14 w-14 items-center justify-center rounded-xl bg-red-500 text-white text-2xl">
+        📞
+      </div>
+
+      <div>
+        <p className="text-xs uppercase tracking-[3px] text-red-400">
+          Direct Call
+        </p>
+
+        <h4 className="text-xl font-bold text-white mt-1">
+          Call Our Team
+        </h4>
+
+        <p className="text-sm text-zinc-400 mt-1">
+          Speak with engineering experts
+        </p>
+      </div>
+    </div>
+  </a>
+
+</div>
               </div>
             </div>
 
@@ -283,37 +345,31 @@ export default function Contact() {
       </p>
     </div>
 
-    <form className="rounded-2xl bg-black p-6">
-      <div className="grid gap-4 md:grid-cols-2">
-        <input className="rounded-lg border border-white/10 bg-[#111] px-4 py-3 text-white outline-none focus:border-red-500" placeholder="Your Name *" />
-        <input className="rounded-lg border border-white/10 bg-[#111] px-4 py-3 text-white outline-none focus:border-red-500" placeholder="Your Email *" />
-        <input className="rounded-lg border border-white/10 bg-[#111] px-4 py-3 text-white outline-none focus:border-red-500" placeholder="Contact Number *" />
-        <input className="rounded-lg border border-white/10 bg-[#111] px-4 py-3 text-white outline-none focus:border-red-500" placeholder="Subject" />
-
-        <select className="rounded-lg border border-white/10 bg-[#111] px-4 py-3 text-white outline-none focus:border-red-500 md:col-span-2">
-          <option>Position</option>
-          <option>Project manager</option>
-          <option>Project coordinator</option>
-          <option>HR</option>
-          <option>IT Admin</option>
-          <option>Sales & Marketing</option>
-          <option>Senior Detailer / Draftman</option>
-          <option>Senior Design Engineer</option>
-          <option>Senior Checker</option>
-          <option>Junior Detailer / Draftsman</option>
-          <option>Junior Design Engineer</option>
-        </select>
-
-        <label className="cursor-pointer rounded-lg border border-dashed border-red-500/50 bg-[#111] px-4 py-3 text-zinc-400 md:col-span-2">
-          Upload Resume PDF only
-          <input type="file" accept=".pdf" className="hidden" />
-        </label>
-      </div>
-
-      <button className="mt-5 w-full rounded-lg bg-red-600 px-6 py-4 font-bold text-white transition hover:bg-red-700">
-        Submit Career Application
-      </button>
-    </form>
+    <div className="rounded-2xl bg-black p-3 overflow-hidden">
+  <iframe
+    src="https://link.on.bingo/widget/form/w5MBMNHOc4M5Si792v4A"
+    style={{
+      width: "100%",
+      height: "620px",
+      border: "none",
+      borderRadius: "16px",
+      background: "#000",
+    }}
+    id="inline-xHCOWWXLlcdxcHJSTBgZ"
+    data-layout="{'id':'INLINE'}"
+    data-trigger-type="alwaysShow"
+    data-trigger-value=""
+    data-activation-type="alwaysActivated"
+    data-activation-value=""
+    data-deactivation-type="neverDeactivate"
+    data-deactivation-value=""
+    data-form-name="Career Form"
+    data-height="620"
+    data-layout-iframe-id="inline-xHCOWWXLlcdxcHJSTBgZ"
+    data-form-id="xHCOWWXLlcdxcHJSTBgZ"
+    title="Career Form"
+  />
+</div>
   </div>
 </section>
     </main>

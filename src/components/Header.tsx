@@ -41,10 +41,10 @@ const portfolioMenu = [
         description: "Completed steel detailing and site project portfolio",
       },
       {
-        title: "Tekla Models Views",
+        title: "3D Models Views",
         icon: Layers,
         href: "/steel-detailing-portfolio/tekla-3d",
-        description: "Modeling and Tekla steel detailing portfolio",
+        description: "Modeling and steel detailing portfolio",
       },
     ],
   },

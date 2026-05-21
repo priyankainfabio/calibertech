@@ -21,8 +21,7 @@ import JobsAtSite from "./pages/JobsAtSite";
 import Tekla3D from "./pages/Tekla3D";
 import Portfolio from "./pages/Portfolio";
 import Infrastructure from "./pages/Infrastructure";
-import MissionVision from "./pages/MissionVision";
-import MembershipsCertifications from "./pages/MembershipsCertifications";
+
 
 function AppContent() {
   const { theme } = useTheme();

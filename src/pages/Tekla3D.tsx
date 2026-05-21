@@ -29,11 +29,11 @@ export default function Tekla3D() {
         </p>
 
         <h1 className="text-5xl md:text-7xl font-black">
-          Tekla <span className="text-red-500">3D view of models</span>
+          <span className="text-red-500">3D</span> view of Models
         </h1>
 
         <p className="mx-auto mt-6 max-w-3xl text-lg text-zinc-400">
-          Tekla modeling, steel detailing, BIM coordination and fabrication-ready structural models.
+          3D modeling, steel detailing, BIM coordination and fabrication-ready structural models.
         </p>
       </section>
 

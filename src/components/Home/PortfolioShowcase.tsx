@@ -1,5 +1,55 @@
-import { useState } from "react";
 import { ArrowUpRight } from "lucide-react";
+import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
+
+
+function ChangingImageCard({ item }: any) {
+  const [index, setIndex] = useState(0);
+  const [isHovering, setIsHovering] = useState(false);
+
+  useEffect(() => {
+    let interval: any;
+
+    if (isHovering) {
+      interval = setInterval(() => {
+        setIndex((prev) => (prev + 1) % item.images.length);
+      }, 1000);
+    }
+
+    return () => clearInterval(interval);
+  }, [isHovering, item.images.length]);
+
+  return (
+    <div
+      className="group overflow-hidden rounded-[28px] border border-white/10 bg-zinc-900 transition-all duration-500 hover:-translate-y-2 hover:border-red-500/40"
+      onMouseEnter={() => setIsHovering(true)}
+      onMouseLeave={() => {
+        setIsHovering(false);
+        setIndex(0);
+      }}
+    >
+      <div className="relative h-[340px] overflow-hidden bg-white">
+        <img
+          src={item.images[index]}
+          alt={item.title}
+          className="h-full w-full object-cover transition-all duration-700"
+        />
+
+        <div className="absolute inset-0 bg-gradient-to-t from-black via-black/10 to-transparent" />
+      </div>
+
+      <div className="p-6">
+        <h3 className="text-2xl font-bold text-white">
+          {item.title}
+        </h3>
+
+        <p className="mt-2 text-zinc-400">
+          Hover to preview multiple model snapshots.
+        </p>
+      </div>
+    </div>
+  );
+}
 
 export default function ProjectsShowcase() {
   const [activeFilter, setActiveFilter] = useState("All Projects");
@@ -10,7 +60,7 @@ export default function ProjectsShowcase() {
     "All Projects",
     "Jobs at Site",
     "Isometric View",
-    "Tekla Models View",
+    "3D Models View",
   ];
 
   const projects = [
@@ -164,16 +214,10 @@ export default function ProjectsShowcase() {
   desc: "Conveyor and access support steel structure isometric view.",
   tags: ["Conveyor", "Support Steel", "Isometric"],
 },
+
 {
   category: "Isometric View",
-  image: "/images/isometric/15.jpg",
-  title: "Conveyor Support Isometric View",
-  desc: "Conveyor and access support steel structure isometric view.",
-  tags: ["Conveyor", "Support Steel", "Isometric"],
-},
-{
-  category: "Isometric View",
-  image: "/isometric/iso1.webp",
+  image: "/isometric/iso5.webp",
   title: "Industrial Tower Structure",
   desc: "Advanced steel tower isometric detailing developed for heavy industrial applications.",
   tags: ["Isometric", "Industrial", "Steel Detailing"],
@@ -183,8 +227,8 @@ export default function ProjectsShowcase() {
   category: "Isometric View",
   image: "/isometric/iso2.webp",
   title: "Access Platform & Staircase",
-  desc: "Tekla isometric platform model with staircase and safety railing detailing.",
-  tags: ["Access Platform", "Tekla", "3D View"],
+  desc: "Isometric platform model with staircase and safety railing detailing.",
+  tags: ["Access Platform", "3D View"],
 },
 
 {
@@ -216,7 +260,7 @@ export default function ProjectsShowcase() {
   image: "/isometric/iso6.webp",
   title: "Commercial Building 3D View",
   desc: "Commercial structural framing with detailed 3D visualization and modeling.",
-  tags: ["Commercial", "3D View", "Tekla"],
+  tags: ["Commercial", "3D View"],
 },
 
 {
@@ -232,7 +276,7 @@ export default function ProjectsShowcase() {
   image: "/isometric/iso8.webp",
   title: "Complex Industrial Layout",
   desc: "Detailed industrial framework with multi-level steel coordination.",
-  tags: ["Industrial", "Complex Structure", "Tekla"],
+  tags: ["Industrial", "Complex Structure"],
 },
 
 {
@@ -259,28 +303,28 @@ export default function ProjectsShowcase() {
   tags: ["Commercial", "BIM", "Isometric"],
 },
 {
-      category: "Tekla Models View",
+      category: "3D Models View",
       image: "/tekla/t1.webp",
-      title: "Tekla Models View",
-      desc: "Fabrication-ready Tekla model for structural steel detailing.",
-      tags: ["Tekla", "Modeling", "BIM"],
+      title: "3D Models View",
+      desc: "Fabrication-ready 3D model for structural steel detailing.",
+      tags: ["Modeling", "BIM"],
       isCollection: true,
     },
     {
-      category: "Tekla Models View",
+      category: "3D Models View",
       image: "/tekla/t2.webp",
-      title: "Tekla Models View",
-      desc: "Fabrication-ready Tekla model for structural steel detailing.",
-      tags: ["Tekla", "Modeling", "BIM"],
+      title: "3D Models View",
+      desc: "Fabrication-ready 3D model for structural steel detailing.",
+      tags: ["Modeling", "BIM"],
       isCollection: true,
     },
 
     {
-      category: "Tekla Models View",
+      category: "3D Models View",
       image: "/tekla/t3.webp",
-      title: "Tekla Models View",
-      desc: "Fabrication-ready Tekla model for structural steel detailing.",
-      tags: ["Tekla", "Modeling", "BIM"],
+      title: "3D Models View",
+      desc: "Fabrication-ready 3D model for structural steel detailing.",
+      tags: ["Modeling", "BIM"],
       isCollection: true,
     },
   ];
@@ -288,12 +332,12 @@ export default function ProjectsShowcase() {
   {
     image: "/tekla/t2.webp",
     title: "Roof Access Steel Model",
-    desc: "Tekla steel model for rooftop access and support framework.",
+    desc: "Steel model for rooftop access and support framework.",
   },
   {
     image: "/tekla/t3.webp",
     title: "Industrial Refinery Structure",
-    desc: "Tekla model for refinery and heavy industrial steel systems.",
+    desc: "3D model for refinery and heavy industrial steel systems.",
   },
   {
     image: "/tekla/t4.webp",
@@ -382,32 +426,85 @@ export default function ProjectsShowcase() {
   },
 ];
 const moreGallery = [
-  
-  { image: "/moody elements school/snap_001.png", title: "Moody Elementary" },
-  { image: "/moody elements school/snap_002.png", title: "Moody Elementary" },
-  { image: "/moody elements school/snap_003.png", title: "Moody Elementary" },
-  { image: "/moody elements school/snap_004.png", title: "Moody Elementary" },
-  { image: "/Mohawk Harbor/snap_001.png", title: "Mohawk Harbor Event Center" },
-  { image: "/Mohawk Harbor/snap_002.png", title: "Mohawk Harbor Event Center" },
-  { image: "/Mohawk Harbor/snap_003.png", title: "Mohawk Harbor Event Center" },
-  { image: "/Mohawk Harbor/snap_004.png", title: "Mohawk Harbor Event Center" },
-  { image: "/cmom/snap_001.png", title: "Children's Museum" },
-  { image: "/Rolex Jumbo/snap_001 (1).png", title: "Rolex Jumbo Steel" },
-  { image: "/Rolex Jumbo/snap_002 (1).png", title: "Rolex Jumbo Steel" },
-  { image: "/Rolex Jumbo/snap_003 (1).png", title: "Rolex Jumbo Steel" },
-  { image: "/Rolex Jumbo/snap_004 (1).png", title: "Rolex Jumbo Steel" },
-  { image: "/water street/snap_001.png", title: "160 Water Street" },
-  { image: "/water street/snap_002.png", title: "160 Water Street" },
-  { image: "/water street/snap_003.png", title: "160 Water Street" },
-  { image: "/water street/snap_004.png", title: "160 Water Street" },
-  { image: "/w 11/snap_001.png", title: "332 W 11th Street" },
-  { image: "/w 11/snap_002.png", title: "332 W 11th Street" },
-  { image: "/w 11/snap_003.png", title: "332 W 11th Street" },
-  { image: "/w 11/snap_004.png", title: "332 W 11th Street" },
-  { image: "/Steel support/snap_001.png", title: "76 11th Ave Secondary Steel Facade Support" },
-  { image: "/Steel support/snap_002.png", title: "76 11th Ave Secondary Steel Facade Support" },
-  { image: "/Steel support/snap_003.png", title: "76 11th Ave Secondary Steel Facade Support" },
-  { image: "/Steel support/snap_004.png", title: "76 11th Ave Secondary Steel Facade Support" },
+  {
+    title: "Moody Elementary",
+    images: [
+      "/moody elements school/moody elementary.jpg",
+      "/moody elements school/snap_001.webp",
+      "/moody elements school/snap_002.webp",
+      "/moody elements school/snap_003.webp",
+      "/moody elements school/snap_004.webp",
+      
+    ],
+  },
+  {
+    title: "Mohawk Harbor Event Center",
+    images: [
+      "/Mohawk Harbor/MH.jpg",
+      "/Mohawk Harbor/snap_001.webp",
+      "/Mohawk Harbor/snap_002.webp",
+      "/Mohawk Harbor/snap_003.webp",
+      "/Mohawk Harbor/snap_004.webp",
+      
+    ],
+  },
+  {
+    title: "160 Water Street",
+    images: [
+      "/water street/ws.jpg",
+      "/water street/snap_001.webp",
+      "/water street/snap_002.webp",
+      "/water street/snap_003.webp",
+      "/water street/snap_004.webp",
+      
+    ],
+  },
+  {
+    title: "Rolex Jumbo Steel",
+    images: [
+      "/Rolex Jumbo/RJ.jpg",
+      "/Rolex Jumbo/snap_0011.webp",
+      "/Rolex Jumbo/snap_0021.webp",
+      "/Rolex Jumbo/snap_0031.webp",
+      "/Rolex Jumbo/snap_0041.webp",
+      
+    ],
+  },
+  {
+    title: "332 W 11th Street",
+    images: [
+      "/w 11/11.jpg",
+      "/w 11/snap_001.webp",
+      "/w 11/snap_002.webp",
+      "/w 11/snap_003.webp",
+      "/w 11/snap_004.webp",
+      
+    ],
+  },
+  {
+    title: "76 11th Ave Secondary Steel Facade Support",
+    images: [
+      "/Steel support/SS.jpg",
+      "/Steel support/snap_001.webp",
+      "/Steel support/snap_002.webp",
+      "/Steel support/snap_003.webp",
+      "/Steel support/snap_004.webp",
+      "/Steel support/snap_005.webp",
+      "/Steel support/snap_006.webp",
+      
+    ],
+  },
+  {
+    title: "Children's Museum",
+    images: [
+      "/cmom/CM.jpg",
+      "/cmom/snap_001.jpg",
+      "/cmom/snap_002.jpg",
+      "/cmom/snap_003.webp",
+      
+    ],
+  },
+
 ];
 
   const filteredProjects =
@@ -437,7 +534,7 @@ const moreGallery = [
 
           <p className="mt-6 text-lg leading-relaxed text-white/70">
             Explore our completed structural steel detailing, fabrication,
-            Tekla modeling, and engineering projects delivered globally.
+            3D modeling, and engineering projects delivered globally.
           </p>
         </div>
 
@@ -458,10 +555,11 @@ const moreGallery = [
           ))}
           <button
   onClick={() => setShowMoreGallery(true)}
-  className="rounded-xl border border-red-500 bg-red-600 px-7 py-4 text-lg font-semibold text-white transition hover:bg-red-700"
+  className="rounded-xl border border-white/10 bg-white/5 px-7 py-4 text-lg font-semibold text-white/70 transition-all duration-300 hover:border-red-500 hover:bg-red-600 hover:text-white"
 >
   View More
 </button>
+
         </div>
 
         {/* PROJECT GRID */}
@@ -532,19 +630,28 @@ const moreGallery = [
         <div>
           
           <h2 className="text-5xl font-black text-white">
-            Tekla Models View
+            3D Models View
           </h2>
           <p className="mt-4 max-w-3xl text-zinc-400">
-            Explore fabrication-ready Tekla models and BIM coordination visuals.
+            Explore fabrication-ready 3D models and BIM coordination visuals.
           </p>
         </div>
 
-        <button
-          onClick={() => setShowTekla(false)}
-          className="rounded-full bg-red-600 px-5 py-3 font-bold text-white"
-        >
-          Close
-        </button>
+        <div className="flex items-center gap-4">
+  <Link
+    to="/contact"
+    className="rounded-full border border-white/10 bg-white/5 px-6 py-3 font-semibold text-white backdrop-blur-md transition-all duration-300 hover:border-red-500 hover:bg-red-600"
+  >
+    Contact Us
+  </Link>
+
+  <button
+    onClick={() => setShowMoreGallery(false)}
+    className="rounded-full bg-red-600 px-6 py-3 font-semibold text-white transition hover:bg-red-700"
+  >
+    Close
+  </button>
+</div>
       </div>
 
       <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
@@ -577,38 +684,65 @@ const moreGallery = [
             Full Model Snap Gallery
           </h2>
           <p className="mt-4 max-w-3xl text-zinc-400">
-            Explore more BIM coordination, Tekla modeling, and structural project snapshots.
+            Explore more BIM coordination, 3D modeling, and structural project snapshots.
           </p>
         </div>
 
-        <button
-          onClick={() => setShowMoreGallery(false)}
-          className="rounded-full bg-red-600 px-5 py-3 font-bold text-white"
-        >
-          Close
-        </button>
+        <div className="flex items-center gap-4">
+  <Link
+    to="/contact"
+    className="rounded-full border border-white/10 bg-white/5 px-6 py-3 font-semibold text-white backdrop-blur-md transition-all duration-300 hover:border-red-500 hover:bg-red-600"
+  >
+    Contact Us
+  </Link>
+
+  <button
+    onClick={() => setShowMoreGallery(false)}
+    className="rounded-full bg-red-600 px-6 py-3 font-semibold text-white transition hover:bg-red-700"
+  >
+    Close
+  </button>
+</div>
       </div>
 
       <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
         {moreGallery.map((item, index) => (
-          <div
-            key={index}
-            className="overflow-hidden rounded-2xl border border-white/10 bg-zinc-900"
-          >
-            <img
-              src={item.image}
-              alt={item.title}
-              className="h-[260px] w-full object-cover"
-            />
-            <div className="p-5">
-              <h3 className="text-2xl font-bold text-white">{item.title}</h3>
-            </div>
-          </div>
-        ))}
+  <ChangingImageCard key={index} item={item} />
+))}
       </div>
     </div>
   </div>
 )}
-    </section>
+
+{/* CTA SECTION */}
+<div className="relative z-10 mx-auto mt-24 max-w-5xl overflow-hidden rounded-[32px] border border-white/10 bg-gradient-to-br from-red-600/20 via-black to-black px-8 py-16 text-center backdrop-blur-xl">
+  
+  <div className="absolute inset-0 opacity-[0.04] bg-[linear-gradient(to_right,#ffffff_1px,transparent_1px),linear-gradient(to_bottom,#ffffff_1px,transparent_1px)] bg-[size:50px_50px]" />
+
+  <div className="relative z-10">
+    <p className="mb-4 text-sm font-semibold uppercase tracking-[0.3em] text-red-500">
+      Let's Build Something Great
+    </p>
+
+    <h2 className="text-4xl font-black leading-tight text-white md:text-6xl">
+      Have a Project?
+    </h2>
+
+    <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-white/70">
+      Connect with Caliber Tech Solutions for fabrication-ready detailing,
+      BIM coordination, 3D modeling, and engineering support.
+    </p>
+
+    <a
+      href="/contact"
+      className="mt-10 inline-flex items-center gap-3 rounded-full bg-red-600 px-8 py-4 text-lg font-bold text-white transition-all duration-300 hover:scale-105 hover:bg-red-700"
+    >
+      Contact Us
+      <ArrowUpRight size={20} />
+    </a>
+  </div>
+</div>
+
+</section>
   );
 }
