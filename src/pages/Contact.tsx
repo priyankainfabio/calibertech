@@ -82,64 +82,36 @@ export default function Contact() {
                   />
                 </div>
                 {/* QUICK CONTACT OPTIONS */}
-<div className="mt-8 grid md:grid-cols-2 gap-5">
+<div className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full">
 
   {/* WHATSAPP */}
   <a
-    href="https://wa.me/919871177166?text=Hi%20Caliber%20Tech%20Solutions,%20I%20want%20to%20discuss%20my%20project."
+    href="https://wa.me/919871771766"
     target="_blank"
     rel="noopener noreferrer"
-    className="group relative overflow-hidden rounded-2xl border border-white/10 bg-[#111111] p-5 transition-all duration-500 hover:-translate-y-1 hover:border-green-500/40"
+    className="group flex items-center gap-3 rounded-2xl border border-white/10 bg-black/60 px-5 py-4 transition-all duration-300 hover:border-red-500/40 hover:bg-black w-full"
   >
-    <div className="absolute inset-0 bg-gradient-to-br from-green-500/10 to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100"></div>
-
-    <div className="relative flex items-center gap-4">
-      <div className="w-14 h-14 rounded-2xl bg-green-500 flex items-center justify-center">
-  <MessageCircle className="w-7 h-7 text-white" />
-</div>
-
-      <div>
-        <p className="text-xs uppercase tracking-[3px] text-green-400">
-          WhatsApp
-        </p>
-
-        <h4 className="text-xl font-bold text-white mt-1">
-          Chat With Us
-        </h4>
-
-        <p className="text-sm text-zinc-400 mt-1">
-          Instant project assistance
-        </p>
-      </div>
+    <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-red-600 flex-shrink-0">
+      <MessageCircle className="h-6 w-6 text-white" />
     </div>
+
+    <h4 className="text-white font-semibold text-lg">
+      Chat With Us
+    </h4>
   </a>
 
   {/* CALL */}
   <a
     href="tel:+17605882207"
-    className="group relative overflow-hidden rounded-2xl border border-white/10 bg-[#111111] p-5 transition-all duration-500 hover:-translate-y-1 hover:border-red-500/40"
+    className="group flex items-center gap-3 rounded-2xl border border-white/10 bg-black/60 px-5 py-4 transition-all duration-300 hover:border-red-500/40 hover:bg-black w-full"
   >
-    <div className="absolute inset-0 bg-gradient-to-br from-red-500/10 to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100"></div>
-
-    <div className="relative flex items-center gap-4">
-      <div className="w-14 h-14 rounded-2xl bg-brand-red flex items-center justify-center">
-  <Phone className="w-7 h-7 text-white" />
-</div>
-
-      <div>
-        <p className="text-xs uppercase tracking-[3px] text-red-400">
-          Direct Call
-        </p>
-
-        <h4 className="text-xl font-bold text-white mt-1">
-          Call Our Team
-        </h4>
-
-        <p className="text-sm text-zinc-400 mt-1">
-          Speak with engineering experts
-        </p>
-      </div>
+    <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-red-600 flex-shrink-0">
+      <Phone className="h-6 w-6 text-white" />
     </div>
+
+    <h4 className="text-white font-semibold text-lg">
+      Call Us
+    </h4>
   </a>
 
 </div>
