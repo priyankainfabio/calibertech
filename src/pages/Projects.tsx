@@ -249,12 +249,12 @@ export default function Projects() {
   return (
     <main>
 {/* Hero Section */}
+<section
+        className="h-[260px] bg-cover bg-center"
+        style={{ backgroundImage: "url('/moody elements school/moody elementary.jpg')" }}
+      />
 <section className="relative min-h-[85vh] flex items-center overflow-hidden bg-black">
-  <img
-    src="/moody elements school/moody elementary.jpg"
-    alt="Project Portfolio"
-    className="absolute inset-0 h-full w-full object-cover opacity-45"
-  />
+  
 
   <div className="absolute inset-0 bg-gradient-to-r from-black via-black/80 to-black/40" />
   <div className="absolute inset-0 bg-[radial-gradient(circle_at_right,rgba(239,68,68,0.25),transparent_45%)]" />
@@ -265,8 +265,7 @@ export default function Projects() {
     </span>
 
     <h1 className="max-w-5xl text-5xl md:text-7xl lg:text-8xl font-black text-white leading-[0.95] mb-7">
-      Project
-      <span className="block text-brand-red">Portfolio</span>
+      Project Portfolio
     </h1>
 
     <p className="max-w-3xl text-lg md:text-2xl text-zinc-300 leading-relaxed">

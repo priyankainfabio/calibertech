@@ -18,12 +18,12 @@ const jobsImages = [
 export default function JobsAtSite() {
   return (
     <main className="min-h-screen bg-[#0b0b0b] text-white">
-      <section className="px-6 pt-32 pb-16 text-center">
-        <img
-    src="/cmom/CM.jpg"
-    alt="Project Portfolio"
-    className="absolute inset-0 h-[65%] w-full object-cover opacity-15"
-  />
+      <section
+        className="h-[260px] bg-cover bg-center"
+        style={{ backgroundImage: "url('/jobs/jobs1.webp')" }}
+      />
+      <section className="px-5 pt-32 pb-14 text-center">
+        
         <p className="mb-4 text-sm font-bold uppercase tracking-[4px] text-red-500">
           Portfolio
         </p>
