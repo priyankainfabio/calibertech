@@ -20,14 +20,14 @@ const categoryConfigs: Record<string, CategoryConfig> = {
     subtitle: 'Steel Solutions for Commercial Excellence',
     description: 'Our commercial building projects showcase cutting-edge structural steel design and detailing for office complexes, retail centers, shopping malls, and mixed-use developments. We deliver innovative solutions that meet the highest standards of safety, efficiency, and aesthetics.',
     icon: Building2,
-    heroImage: 'https://img.freepik.com/premium-photo/modern-business-office-building_1127-20327.jpg',
+    heroImage: '/Rolex Jumbo/RJ.jpg',
   },
   industrial: {
     title: 'Industrial Facilities',
     subtitle: 'Heavy-Duty Steel Structures',
     description: 'From manufacturing plants to warehouse facilities, our industrial projects demonstrate expertise in heavy-duty steel structures. We specialize in pre-engineered buildings, fabrication support, and comprehensive detailing services that ensure structural integrity and operational efficiency.',
     icon: Wrench,
-    heroImage: 'https://tbm-corp.com/wp-content/uploads/2020/04/manufacturing-plant.jpg',
+    heroImage: '/pbg.webp',
   },
   infrastructure: {
     title: 'Infrastructure Projects',
@@ -119,7 +119,7 @@ export default function ProjectCategory() {
           <img
             src={config.heroImage}
             alt={`${config.title} - structural steel detailing and fabrication-ready drawings by Caliber Tech Solutions`}
-            className="w-full h-full object-cover opacity-10"
+            className="w-full h-full object-cover opacity-55"
             loading="lazy"
           />
           <div className={`absolute inset-0 ${isLight ? 'bg-white/80' : 'bg-dark-bg/90'}`}></div>

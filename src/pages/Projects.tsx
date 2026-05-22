@@ -248,53 +248,73 @@ export default function Projects() {
 
   return (
     <main>
-      {/* Hero Section */}
-      <section className={`relative py-16 sm:py-20 md:py-24 lg:py-32 ${isLight ? 'bg-gradient-to-b from-white to-gray-50' : 'bg-gradient-to-b from-dark-bg to-dark-bg-secondary'} overflow-hidden transition-colors duration-300`}>
-        {/* Background Decoration */}
-        <div className="absolute top-0 right-0 w-96 h-96 bg-brand-red/5 rounded-full blur-3xl"></div>
-        <div className="absolute bottom-0 left-0 w-96 h-96 bg-brand-red/5 rounded-full blur-3xl"></div>
-        
-        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16 animate-fade-up">
-            <span className="text-brand-red font-semibold text-sm uppercase tracking-wider mb-4 block">
-              Our Work
-            </span>
-            <h1 className={`text-5xl md:text-6xl lg:text-7xl font-bold ${isLight ? 'text-gray-900' : 'text-white'} mb-6 transition-colors duration-300`}>
-              Project
-              <span className="block text-brand-red mt-2">Portfolio</span>
-            </h1>
-            <div className="flex items-center justify-center gap-2 mb-8">
-              <div className="h-1 w-16 bg-brand-red rounded-full" />
-              <p className={`text-xl md:text-2xl ${isLight ? 'text-gray-700' : 'text-dark-text-secondary'} max-w-3xl mx-auto transition-colors duration-300`}>
-                Showcasing our expertise through successful structural steel projects worldwide
-              </p>
-              <div className="h-1 w-16 bg-brand-red rounded-full" />
-            </div>
-          </div>
+{/* Hero Section */}
+<section className="relative min-h-[85vh] flex items-center overflow-hidden bg-black">
+  <img
+    src="/moody elements school/moody elementary.jpg"
+    alt="Project Portfolio"
+    className="absolute inset-0 h-full w-full object-cover opacity-45"
+  />
 
-          {/* Stats */}
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto">
-            {[
-              { value: '4000+', label: 'Projects Completed' },
-              { value: '15+', label: 'Countries' },
-              { value: '21+', label: 'Years Experience' },
-              { value: '98%', label: 'Client Satisfaction' },
-            ].map((stat, idx) => (
-              <div
-                key={stat.label}
-                className={`${isLight ? 'bg-white border-gray-300' : 'bg-dark-bg-card border-dark-border'} p-6 rounded-xl border-2 text-center transition-all duration-300 hover:border-brand-red hover:shadow-xl`}
-                style={{ transitionDelay: `${idx * 100}ms` }}
-              >
-                <p className="text-3xl md:text-4xl font-bold text-brand-red mb-2">{stat.value}</p>
-                <p className={`text-sm font-semibold ${isLight ? 'text-gray-900' : 'text-white'} transition-colors duration-300`}>
-                  {stat.label}
-                </p>
-              </div>
-            ))}
-          </div>
+  <div className="absolute inset-0 bg-gradient-to-r from-black via-black/80 to-black/40" />
+  <div className="absolute inset-0 bg-[radial-gradient(circle_at_right,rgba(239,68,68,0.25),transparent_45%)]" />
+
+  <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-28">
+    <span className="text-brand-red font-bold text-sm uppercase tracking-[5px] mb-5 block">
+      Our Work
+    </span>
+
+    <h1 className="max-w-5xl text-5xl md:text-7xl lg:text-8xl font-black text-white leading-[0.95] mb-7">
+      Project
+      <span className="block text-brand-red">Portfolio</span>
+    </h1>
+
+    <p className="max-w-3xl text-lg md:text-2xl text-zinc-300 leading-relaxed">
+      Explore fabrication-ready steel detailing, BIM coordination, industrial structures,
+      commercial buildings and infrastructure projects delivered across global markets.
+    </p>
+
+    <div className="mt-10 flex flex-wrap gap-4">
+      <Link
+        to="/contact"
+        className="inline-flex items-center gap-2 rounded-xl bg-brand-red px-7 py-4 font-bold text-white transition hover:bg-red-700"
+      >
+        Start Your Project
+        <ArrowRight size={20} />
+      </Link>
+
+      <Link
+        to="/services"
+        className="inline-flex items-center gap-2 rounded-xl border border-white/20 bg-white/5 px-7 py-4 font-bold text-white backdrop-blur-md transition hover:border-brand-red hover:bg-white/10"
+      >
+        Explore Services
+        <ArrowRight size={20} />
+      </Link>
+    </div>
+
+    <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6 max-w-5xl">
+      {[
+        { value: '4000+', label: 'Projects Completed' },
+        { value: '15+', label: 'Countries' },
+        { value: '21+', label: 'Years Experience' },
+        { value: '98%', label: 'Client Satisfaction' },
+      ].map((stat, idx) => (
+        <div
+          key={stat.label}
+          className="bg-white/5 border border-white/10 backdrop-blur-md p-6 rounded-xl text-center transition-all duration-300 hover:border-brand-red hover:shadow-xl"
+          style={{ transitionDelay: `${idx * 100}ms` }}
+        >
+          <p className="text-3xl md:text-4xl font-bold text-brand-red mb-2">
+            {stat.value}
+          </p>
+          <p className="text-sm font-semibold text-white">
+            {stat.label}
+          </p>
         </div>
-      </section>
-
+      ))}
+    </div>
+  </div>
+</section>
       {/* Filter Section */}
       <section className={`py-8 ${isLight ? 'bg-white' : 'bg-dark-bg'} border-b ${isLight ? 'border-gray-300' : 'border-dark-border'} transition-colors duration-300 sticky top-20 z-40`}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -612,4 +632,5 @@ export default function Projects() {
     </main>
   );
 }
+
 
