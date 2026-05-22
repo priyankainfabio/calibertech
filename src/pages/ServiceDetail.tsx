@@ -6,10 +6,10 @@ import { useTheme } from '../contexts/ThemeContext';
 
 const serviceDetails: Record<string, any> = {
   'structural-steel-detailing': {
-    title: 'Structural Steel Detailing Services',
+    title: 'Shop Drawing',
     subtitle: 'DETAILED ENGINEERING',
     icon: FileText,
-    image: 'https://content.app-sources.com/s/432484035579470251/uploads/Caliber/3-4254478.png?format=webp',
+    image: '/ssbg.webp',
     sections: [
       {
         title: 'Detailed Engineering',
@@ -47,7 +47,7 @@ const serviceDetails: Record<string, any> = {
     ],
   },
   'steel-design': {
-    title: 'Steel Design Services',
+    title: 'End to End Services',
     subtitle: 'Best Steel Design Services',
     icon: Wrench,
     image: 'https://content.app-sources.com/s/432484035579470251/uploads/Caliber/5-4254478.png?format=webp',
@@ -108,7 +108,7 @@ const serviceDetails: Record<string, any> = {
     title: 'Connection Design',
     subtitle: 'Expert Connection Design Services',
     icon: CheckCircle2,
-    image: 'https://content.app-sources.com/s/432484035579470251/uploads/Caliber/4-4254478.png?format=webp',
+    image: '/cbg.webp',
     sections: [
       {
         title: 'Our Tools & Expertise',
@@ -146,10 +146,10 @@ const serviceDetails: Record<string, any> = {
     ],
   },
       'steel-fabrication': {
-        title: 'Structural Steel and Piping Fabrication',
+        title: 'Structural Engineering',
         subtitle: 'Comprehensive Fabrication Services',
         icon: Building2,
-        image: 'https://content.app-sources.com/s/432484035579470251/uploads/Caliber/1-4254477.png?format=webp',
+        image: '/sbg.webp',
         sections: [
           {
             title: 'Structural Steel Fabrication',
@@ -209,7 +209,7 @@ const serviceDetails: Record<string, any> = {
         title: 'PE Stamp Services',
         subtitle: 'Professional Engineering Stamping',
         icon: Award,
-        image: 'https://content.app-sources.com/s/432484035579470251/uploads/Caliber/Estimation-Services-8561112.jpg?format=webp',
+        image: '/pbg.webp',
         sections: [
           {
             title: 'Prebid Steel Estimating & Material Takeoffs',
@@ -331,37 +331,58 @@ export default function ServiceDetail() {
 
   return (
     <main>
+      
       {/* Hero Section */}
-      <section className={`relative py-16 sm:py-20 md:py-24 lg:py-32 ${isLight ? 'bg-gradient-to-b from-white to-gray-50' : 'bg-gradient-to-b from-dark-bg to-dark-bg-secondary'} overflow-hidden transition-colors duration-300`}>
-        {/* Background Decoration */}
-        <div className="absolute top-0 right-0 w-96 h-96 bg-brand-red/5 rounded-full blur-3xl"></div>
-        <div className="absolute bottom-0 left-0 w-96 h-96 bg-brand-red/5 rounded-full blur-3xl"></div>
-        
-        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
-            <Link 
-              to="/services" 
-              className="inline-flex items-center gap-2 text-brand-red hover:text-red-700 mb-6 transition-colors duration-300"
-            >
-              <ArrowRight size={18} className="rotate-180" />
-              <span className="font-semibold">Back to Services</span>
-            </Link>
-            <span className="text-brand-red font-semibold text-sm uppercase tracking-wider mb-4 block">
-              {service.subtitle}
-            </span>
-            <h1 className={`text-5xl md:text-6xl lg:text-7xl font-bold ${isLight ? 'text-gray-900' : 'text-white'} mb-6 transition-colors duration-300`}>
-              {service.title}
-            </h1>
-            <div className="flex items-center justify-center gap-2">
-              <div className="h-1 w-16 bg-brand-red rounded-full" />
-              <p className={`text-xl md:text-2xl ${isLight ? 'text-gray-700' : 'text-dark-text-secondary'} max-w-3xl mx-auto transition-colors duration-300`}>
-                Expert solutions for your structural steel engineering needs
-              </p>
-              <div className="h-1 w-16 bg-brand-red rounded-full" />
-            </div>
-          </div>
-        </div>
-      </section>
+<section className="relative min-h-[78vh] overflow-hidden bg-black flex items-center">
+  <img
+    src={service.image}
+    alt={service.title}
+    className="absolute inset-0 h-full w-full object-cover opacity-45"
+  />
+
+  <div className="absolute inset-0 bg-gradient-to-r from-black via-black/75 to-black/35" />
+  <div className="absolute inset-0 bg-[radial-gradient(circle_at_right,rgba(239,68,68,0.25),transparent_45%)]" />
+
+  <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <Link
+      to="/services"
+      className="inline-flex items-center gap-2 text-brand-red hover:text-red-400 mb-8 transition-colors duration-300"
+    >
+      <ArrowRight size={18} className="rotate-180" />
+      <span className="font-semibold">Back to Services</span>
+    </Link>
+
+    <span className="text-brand-red font-bold text-sm uppercase tracking-[5px] mb-5 block">
+      {service.subtitle}
+    </span>
+
+    <h1 className="max-w-5xl text-5xl md:text-7xl lg:text-8xl font-black text-white leading-[0.95] mb-7">
+      {service.title}
+    </h1>
+
+    <p className="max-w-3xl text-lg md:text-2xl text-zinc-300 leading-relaxed">
+      Expert steel engineering, detailing, modeling and fabrication-ready execution support for global structural projects.
+    </p>
+
+    <div className="mt-10 flex flex-wrap gap-4">
+      <Link
+        to="/contact"
+        className="inline-flex items-center gap-2 rounded-xl bg-brand-red px-7 py-4 font-bold text-white transition hover:bg-red-700"
+      >
+        Request a Quote
+        <ArrowRight size={20} />
+      </Link>
+
+      <Link
+        to="/steel-detailing-portfolio"
+        className="inline-flex items-center gap-2 rounded-xl border border-white/20 bg-white/5 px-7 py-4 font-bold text-white backdrop-blur-md transition hover:border-brand-red hover:bg-white/10"
+      >
+        View Portfolio
+        <ArrowRight size={20} />
+      </Link>
+    </div>
+  </div>
+</section>
 
       {/* Content Sections */}
       <section className={`py-16 sm:py-20 md:py-24 ${isLight ? 'bg-white' : 'bg-dark-bg'} transition-colors duration-300`}>

@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import { Mail, Phone, MapPin, Clock } from 'lucide-react';
 import { setMetaTags, setCanonical, setStructuredData, getBreadcrumbSchema, getWebPageSchema } from '../utils/seo';
 import { useTheme } from '../contexts/ThemeContext';
+import { MessageCircle } from 'lucide-react'
 
 export default function Contact() {
   const { theme } = useTheme();
@@ -93,9 +94,9 @@ export default function Contact() {
     <div className="absolute inset-0 bg-gradient-to-br from-green-500/10 to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100"></div>
 
     <div className="relative flex items-center gap-4">
-      <div className="flex h-14 w-14 items-center justify-center rounded-xl bg-green-500 text-white text-2xl">
-        💬
-      </div>
+      <div className="w-14 h-14 rounded-2xl bg-green-500 flex items-center justify-center">
+  <MessageCircle className="w-7 h-7 text-white" />
+</div>
 
       <div>
         <p className="text-xs uppercase tracking-[3px] text-green-400">
@@ -121,9 +122,9 @@ export default function Contact() {
     <div className="absolute inset-0 bg-gradient-to-br from-red-500/10 to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100"></div>
 
     <div className="relative flex items-center gap-4">
-      <div className="flex h-14 w-14 items-center justify-center rounded-xl bg-red-500 text-white text-2xl">
-        📞
-      </div>
+      <div className="w-14 h-14 rounded-2xl bg-brand-red flex items-center justify-center">
+  <Phone className="w-7 h-7 text-white" />
+</div>
 
       <div>
         <p className="text-xs uppercase tracking-[3px] text-red-400">

@@ -184,30 +184,49 @@ export default function Services() {
   return (
     <main>
       {/* Hero Section */}
-      <section className={`relative py-16 sm:py-20 md:py-24 lg:py-32 ${isLight ? 'bg-gradient-to-b from-white to-gray-50' : 'bg-gradient-to-b from-dark-bg to-dark-bg-secondary'} overflow-hidden transition-colors duration-300`}>
-        {/* Background Decoration */}
-        <div className="absolute top-0 right-0 w-96 h-96 bg-brand-red/5 rounded-full blur-3xl"></div>
-        <div className="absolute bottom-0 left-0 w-96 h-96 bg-brand-red/5 rounded-full blur-3xl"></div>
-        
-        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16 animate-fade-up">
-            <span className="text-brand-red font-semibold text-sm uppercase tracking-wider mb-4 block">
-              What We Offer
-            </span>
-            <h1 className={`text-5xl md:text-6xl lg:text-7xl font-bold ${isLight ? 'text-gray-900' : 'text-white'} mb-6 transition-colors duration-300`}>
-              Comprehensive
-              <span className="block text-brand-red mt-2">Steel Solutions</span>
-            </h1>
-            <div className="flex items-center justify-center gap-2 mb-8">
-              <div className="h-1 w-16 bg-brand-red rounded-full" />
-              <p className={`text-xl md:text-2xl ${isLight ? 'text-gray-700' : 'text-dark-text-secondary'} max-w-3xl mx-auto transition-colors duration-300`}>
-                From design to fabrication support, we provide end-to-end structural steel services
-              </p>
-              <div className="h-1 w-16 bg-brand-red rounded-full" />
-            </div>
-          </div>
-        </div>
-      </section>
+<section className="relative min-h-[78vh] overflow-hidden bg-black flex items-center">
+  <img
+    src="sbg.webp"
+    alt="Comprehensive Steel Solutions"
+    className="absolute inset-0 h-full w-full object-cover opacity-45"
+  />
+
+  <div className="absolute inset-0 bg-gradient-to-r from-black via-black/75 to-black/35" />
+  <div className="absolute inset-0 bg-[radial-gradient(circle_at_right,rgba(239,68,68,0.25),transparent_45%)]" />
+
+  <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <span className="text-brand-red font-bold text-sm uppercase tracking-[5px] mb-5 block">
+      What We Offer
+    </span>
+
+    <h1 className="max-w-5xl text-5xl md:text-7xl lg:text-8xl font-black text-white leading-[0.95] mb-7">
+      Comprehensive
+      <span className="block text-brand-red">Steel Solutions</span>
+    </h1>
+
+    <p className="max-w-3xl text-lg md:text-2xl text-zinc-300 leading-relaxed">
+      Expert steel engineering, detailing, modeling and fabrication-ready execution support for global structural projects.
+    </p>
+
+    <div className="mt-10 flex flex-wrap gap-4">
+      <Link
+        to="/contact"
+        className="inline-flex items-center gap-2 rounded-xl bg-brand-red px-7 py-4 font-bold text-white transition hover:bg-red-700"
+      >
+        Request a Quote
+        <ArrowRight size={20} />
+      </Link>
+
+      <Link
+        to="/steel-detailing-portfolio"
+        className="inline-flex items-center gap-2 rounded-xl border border-white/20 bg-white/5 px-7 py-4 font-bold text-white backdrop-blur-md transition hover:border-brand-red hover:bg-white/10"
+      >
+        View Portfolio
+        <ArrowRight size={20} />
+      </Link>
+    </div>
+  </div>
+</section>
 
       {/* Main Services Section */}
       <section className={`py-16 sm:py-20 md:py-24 ${isLight ? 'bg-white' : 'bg-dark-bg'} transition-colors duration-300`}>
@@ -238,15 +257,28 @@ export default function Services() {
                   }`}
                 >
                   {/* Image */}
-                  <div className={`relative ${!isEven ? 'lg:col-start-2' : ''}`}>
-                    <div className={`relative ${isLight ? 'bg-gray-200' : 'bg-dark-bg-tertiary'} rounded-xl overflow-hidden shadow-lg transition-colors duration-300`}>
-                      <img
-                        src={service.image}
-                        alt={service.title}
-                        className="w-full h-[400px] md:h-[500px] object-cover"
-                      />
-                    </div>
-                  </div>
+<div className={`relative ${!isEven ? 'lg:col-start-2' : ''}`}>
+  <div className="group relative overflow-hidden rounded-3xl border border-white/10 bg-[#111] shadow-2xl">
+
+    <img
+      src={service.image}
+      alt={service.title}
+      className="w-full h-[420px] md:h-[520px] object-cover transition duration-700 group-hover:scale-110"
+    />
+
+    <div className="absolute inset-0 bg-gradient-to-t from-black via-black/25 to-transparent" />
+
+    <div className="absolute bottom-0 left-0 w-full p-7">
+      <span className="mb-3 inline-block text-xs font-bold uppercase tracking-[4px] text-brand-red">
+        Service {idx + 1}
+      </span>
+
+      <h3 className="text-3xl font-black text-white">
+        {service.title}
+      </h3>
+    </div>
+  </div>
+</div>
 
                   {/* Content */}
                   <div className={`${!isEven ? 'lg:col-start-1 lg:row-start-1' : ''}`}>
