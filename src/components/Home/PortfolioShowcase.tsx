@@ -70,6 +70,7 @@ export default function ProjectsShowcase() {
       title: "Industrial Refinery Structure",
       desc: "Completed refinery steel structure detailing and fabrication support project.",
       tags: ["Steel Detailing", "Industrial", "Fabrication"],
+      link: "/projects",
     },
 
     {
@@ -78,6 +79,7 @@ export default function ProjectsShowcase() {
       title: "Commercial Building Site Work",
       desc: "Commercial steel building detailing and on-site execution support.",
       tags: ["Commercial", "Shop Drawings", "Site Work"],
+      link: "/projects",
     },
 
     {
@@ -86,6 +88,7 @@ export default function ProjectsShowcase() {
       title: "Infrastructure Steel Project",
       desc: "Heavy structural steel support systems and infrastructure execution project.",
       tags: ["Infrastructure", "Structural Steel", "Execution"],
+      link: "/projects",
     },
     {
       category: "Jobs at Site",
@@ -93,6 +96,7 @@ export default function ProjectsShowcase() {
       title: "Commercial Steel Framing",
       desc: "On-site structural steel framing execution for commercial building development.",
       tags: ["Commercial", "Steel Framing", "Site Work"],
+      link: "/projects/commercial",
     },
 
     {
@@ -101,6 +105,7 @@ export default function ProjectsShowcase() {
       title: "Industrial Plant Structure",
       desc: "Heavy industrial structural steel installation with access systems and platforms.",
       tags: ["Industrial", "Plant", "Steel"],
+      link: "/projects/infrastructure",
     },
 
     {
@@ -109,6 +114,7 @@ export default function ProjectsShowcase() {
       title: "Refinery Construction",
       desc: "Refinery steel detailing and erection support for large-scale industrial operations.",
       tags: ["Refinery", "Oil & Gas", "Industrial"],
+      link: "/projects/industrial",
     },
 
     {
@@ -117,6 +123,7 @@ export default function ProjectsShowcase() {
       title: "Structural Beam Installation",
       desc: "Precision beam installation and framing support executed on-site.",
       tags: ["Structural", "Beam", "Steel"],
+      link: "/projects/infrastructure",
     },
 
     {
@@ -125,6 +132,7 @@ export default function ProjectsShowcase() {
       title: "Multi-Level Commercial Structure",
       desc: "Commercial project steel framework construction with advanced detailing.",
       tags: ["Commercial", "Structure", "Steel"],
+      link: "/projects/commercial",
     },
       
 
@@ -134,6 +142,7 @@ export default function ProjectsShowcase() {
       title: "Industrial Steel Framework",
       desc: "Fabrication-ready industrial framework installed for process facility.",
       tags: ["Industrial", "Fabrication", "Framework"],
+      link: "/projects/industrial",
     },
 
     {
@@ -142,6 +151,7 @@ export default function ProjectsShowcase() {
       title: "Interior Structural Steel",
       desc: "Interior structural steel and roofing support system installation.",
       tags: ["Interior", "Roofing", "Steel"],
+      link: "/projects/industrial",
     },
 
     {
@@ -150,6 +160,7 @@ export default function ProjectsShowcase() {
       title: "Process Equipment Installation",
       desc: "Steel support systems for industrial process equipment and vessels.",
       tags: ["Equipment", "Industrial", "Support"],
+      link: "/projects/infrastructure",
     },
 
     {
@@ -158,6 +169,7 @@ export default function ProjectsShowcase() {
       title: "Exterior Steel Staircase",
       desc: "Exterior staircase fabrication and installation for commercial property.",
       tags: ["Staircase", "Commercial", "Steel"],
+      link: "/projects/industrial",
     },
 
     {
@@ -166,6 +178,7 @@ export default function ProjectsShowcase() {
       title: "Roof Access Steel System",
       desc: "Roof access and safety steel system installation at project site.",
       tags: ["Roof Access", "Safety", "Steel"],
+      link: "/projects/infrastructure",
     },
 
     {
@@ -174,6 +187,7 @@ export default function ProjectsShowcase() {
       title: "Industrial Tower Erection",
       desc: "Heavy-duty industrial tower erection with structural steel coordination.",
       tags: ["Tower", "Industrial", "Erection"],
+      link: "/projects/industrial",
     },
 
 
@@ -184,6 +198,7 @@ export default function ProjectsShowcase() {
       title: "Industrial Isometric View",
       desc: "Detailed isometric structural model prepared for fabrication coordination.",
       tags: ["Isometric", "Engineering", "Coordination"],
+      link: "/steel-detailing-portfolio"
     },
 
     {
@@ -192,6 +207,7 @@ export default function ProjectsShowcase() {
       title: "Steel Pipe Rack Isometric",
       desc: "Pipe rack and industrial structure isometric detailing view.",
       tags: ["Pipe Rack", "Steel Detailing", "Isometric"],
+      link: "/steel-detailing-portfolio"
     },
     {
   category: "Isometric View",
@@ -199,6 +215,7 @@ export default function ProjectsShowcase() {
   title: "Silo Structure Isometric View",
   desc: "Isometric drawing for silo support and industrial equipment structure.",
   tags: ["Silo", "Industrial", "Isometric"],
+  link: "/steel-detailing-portfolio"
 },
 {
   category: "Isometric View",
@@ -206,6 +223,7 @@ export default function ProjectsShowcase() {
   title: "Utility Tower Isometric View",
   desc: "Tall steel utility tower isometric view for structural coordination.",
   tags: ["Tower", "Steel Structure", "Isometric"],
+  link: "/steel-detailing-portfolio"
 },
 {
   category: "Isometric View",
@@ -213,6 +231,7 @@ export default function ProjectsShowcase() {
   title: "Conveyor Support Isometric View",
   desc: "Conveyor and access support steel structure isometric view.",
   tags: ["Conveyor", "Support Steel", "Isometric"],
+  link: "/steel-detailing-portfolio"
 },
 
 {
@@ -221,6 +240,7 @@ export default function ProjectsShowcase() {
   title: "Industrial Tower Structure",
   desc: "Advanced steel tower isometric detailing developed for heavy industrial applications.",
   tags: ["Isometric", "Industrial", "Steel Detailing"],
+  link: "/steel-detailing-portfolio"
 },
 
 {
@@ -229,6 +249,7 @@ export default function ProjectsShowcase() {
   title: "Access Platform & Staircase",
   desc: "Isometric platform model with staircase and safety railing detailing.",
   tags: ["Access Platform", "3D View"],
+  link: "/steel-detailing-portfolio",
 },
 
 {
@@ -237,6 +258,7 @@ export default function ProjectsShowcase() {
   title: "Airport Entry Canopy",
   desc: "Curved steel canopy detailing developed for airport infrastructure project.",
   tags: ["Canopy", "Infrastructure", "Steel"],
+  link: "/steel-detailing-portfolio"
 },
 
 {
@@ -245,6 +267,7 @@ export default function ProjectsShowcase() {
   title: "Industrial Plant Framework",
   desc: "Large-scale industrial steel framing and connection detailing project.",
   tags: ["Industrial Plant", "Steel Structure", "BIM"],
+  link: "/steel-detailing-portfolio"
 },
 
 {
@@ -253,6 +276,7 @@ export default function ProjectsShowcase() {
   title: "Pipe Rack Steel Model",
   desc: "Pipe rack support system designed with precise structural coordination.",
   tags: ["Pipe Rack", "Industrial", "Steel"],
+  link: "/steel-detailing-portfolio"
 },
 
 {
@@ -261,6 +285,7 @@ export default function ProjectsShowcase() {
   title: "Commercial Building 3D View",
   desc: "Commercial structural framing with detailed 3D visualization and modeling.",
   tags: ["Commercial", "3D View"],
+  link: "/steel-detailing-portfolio"
 },
 
 {
@@ -269,6 +294,7 @@ export default function ProjectsShowcase() {
   title: "Structural Roof Framing",
   desc: "Roof framing system developed for fabrication-ready steel execution.",
   tags: ["Roof Framing", "Steel", "Structural"],
+  link: "/steel-detailing-portfolio"
 },
 
 {
@@ -277,6 +303,7 @@ export default function ProjectsShowcase() {
   title: "Complex Industrial Layout",
   desc: "Detailed industrial framework with multi-level steel coordination.",
   tags: ["Industrial", "Complex Structure"],
+  link: "/steel-detailing-portfolio"
 },
 
 {
@@ -285,6 +312,7 @@ export default function ProjectsShowcase() {
   title: "Warehouse Structural Model",
   desc: "Warehouse steel detailing model optimized for fabrication workflows.",
   tags: ["Warehouse", "Steel Detailing", "3D"],
+  link: "/steel-detailing-portfolio"
 },
 
 {
@@ -293,6 +321,7 @@ export default function ProjectsShowcase() {
   title: "Steel Roof System",
   desc: "Advanced roof steel system designed with connection-level precision.",
   tags: ["Roof System", "Steel", "Fabrication"],
+  link: "/steel-detailing-portfolio"
 },
 
 {
@@ -301,6 +330,7 @@ export default function ProjectsShowcase() {
   title: "Commercial Structural Layout",
   desc: "Large commercial steel framework modeled for BIM coordination and detailing.",
   tags: ["Commercial", "BIM", "Isometric"],
+  link: "/steel-detailing-portfolio"
 },
 {
       category: "3D Models View",
@@ -309,6 +339,7 @@ export default function ProjectsShowcase() {
       desc: "Fabrication-ready 3D model for structural steel detailing.",
       tags: ["Modeling", "BIM"],
       isCollection: true,
+      link:"/portfolio/tekla3D.tsx"
     },
     {
       category: "3D Models View",
@@ -580,9 +611,7 @@ const moreGallery = [
 
                 <div className="absolute inset-0 bg-gradient-to-t from-black via-black/10 to-transparent" />
 
-                <div className="absolute left-5 top-5 flex h-14 w-14 items-center justify-center rounded-full bg-red-600 text-white shadow-lg">
-                  <ArrowUpRight size={26} />
-                </div>
+                
               </div>
 
               {/* CONTENT */}
@@ -606,18 +635,24 @@ const moreGallery = [
                     </span>
                   ))}
                 </div>
-                <button
-  type="button"
-  onClick={() => {
-    if (project.isCollection) {
-      setShowTekla(true);
-    }
-  }}
-  className="mt-7 inline-flex items-center gap-2 rounded-full bg-red-600 px-5 py-3 text-sm font-bold text-white transition hover:bg-red-700"
->
-  {project.isCollection ? "View More" : "View Project"}
-  <ArrowUpRight size={16} />
-</button>
+                {project.isCollection ? (
+  <button
+    onClick={() => setShowTekla(true)}
+    className="mt-7 inline-flex items-center gap-2 rounded-full bg-red-600 px-5 py-3 text-sm font-bold text-white transition hover:bg-red-700"
+  >
+    View Project
+    <ArrowUpRight size={16} />
+  </button>
+) : (
+  <Link
+    to={project.link}
+    className="mt-7 inline-flex items-center gap-2 rounded-full bg-red-600 px-5 py-3 text-sm font-bold text-white transition hover:bg-red-700"
+  >
+    View Project
+    <ArrowUpRight size={16} />
+  </Link>
+)}
+                  
               </div>
             </div>
           ))}
@@ -646,7 +681,7 @@ const moreGallery = [
   </Link>
 
   <button
-    onClick={() => setShowMoreGallery(false)}
+    onClick={() => setShowTekla(false)}
     className="rounded-full bg-red-600 px-6 py-3 font-semibold text-white transition hover:bg-red-700"
   >
     Close

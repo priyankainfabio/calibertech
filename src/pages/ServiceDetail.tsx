@@ -499,7 +499,7 @@ export default function ServiceDetail() {
             <div className="flex-1 text-center md:text-left">
               <span className="text-brand-red font-semibold text-sm uppercase tracking-wider mb-1 block">Steel Detailing Portfolio</span>
               <h2 className={`text-2xl md:text-3xl font-bold ${isLight ? 'text-gray-900' : 'text-white'} mb-2 transition-colors duration-300`}>
-                Tekla Structure 3D Models
+                3D Structure Models
               </h2>
               <p className={`${isLight ? 'text-gray-600' : 'text-dark-text-secondary'} transition-colors duration-300`}>
                 Explore our BIM 3D steel models created using Tekla Structures. View project details with interactive 3D PDF technology.
