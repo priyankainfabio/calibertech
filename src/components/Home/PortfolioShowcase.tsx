@@ -35,7 +35,7 @@ function ChangingImageCard({ item }: any) {
           className="h-full w-full object-cover transition-all duration-700"
         />
 
-        <div className="absolute inset-0 bg-gradient-to-t from-black via-black/10 to-transparent" />
+<div className="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-black/5 pointer-events-none" />
       </div>
 
       <div className="p-6">
@@ -602,15 +602,14 @@ const moreGallery = [
             >
               
               {/* IMAGE */}
-              <div className="relative overflow-hidden">
+              <div className="relative overflow-hidden rounded-[28px] bg-black">
                 <img
                   src={project.image}
                   alt={project.title}
-                  className="h-[320px] w-full object-cover transition-transform duration-700 group-hover:scale-110"
+                  className="h-[320px] w-full object-cover transition-transform duration-700 group-hover:scale-105 will-change-transform"
                 />
 
-                <div className="absolute inset-0 bg-gradient-to-t from-black via-black/10 to-transparent" />
-
+<div className="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-black/5 pointer-events-none" />
                 
               </div>
 
